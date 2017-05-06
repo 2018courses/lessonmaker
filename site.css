@@ -1,0 +1,32 @@
+.panel panel-primary {
+	outline-width: 0px;
+	border-width: 0px;
+}
+
+body {
+	padding-top: 70px;
+}
+
+#invisi-panel {
+	border-width: 0px;
+
+}
+
+.panel-body {
+	border-width: 0px;
+}
+
+#helpico { 
+    width:16px; 
+    height:16px;
+    display: block;
+    float: right;
+}
+
+.jumbotron {
+    color: #FFF; 
+    position: relative;
+    background: #5073A4;
+    text-align: center;
+
+}
