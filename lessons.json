@@ -1,0 +1,2785 @@
+{
+    "lessons": [
+        {
+            "id": 0,
+            "name": "Introductions, expectations and outline",
+            "unit": "MIGRATING FROM PYTHON TO JAVA",
+            "outcomes": [
+                {
+                    "title": "Welcome to computer programming (ics4u)",
+                    "plan": "learn about software development, what does Steve Jobs say?",
+                    "note": "",
+                    "expectation": "",
+                    "resource": "Steve jobs on computer science",
+                    "link": "https://www.youtube.com/watch?v=IY7EsTnUSxY",
+                    "evidence": "",
+                    "assessment": ""
+                },
+                {
+                    "title": "About me",
+                    "plan": "teacher introduce himself",
+                    "note": "",
+                    "expectation": "",
+                    "resource": "My profile",
+                    "link": "https://drive.google.com/file/d/0B-67aGL87ij3NjhneFE3OWVDZUk/view?usp=sharing",
+                    "evidence": "",
+                    "assessment": ""
+                },
+                {
+                    "title": "About you",
+                    "plan": "login to school gmail, visit Haiku/Outline, submit profile and photo",
+                    "note": "",
+                    "expectation": "",
+                    "resource": "How to change profile photo",
+                    "link": "https://docs.google.com/document/d/15Rrjl8mxiz2UUh8VV_D9V_XNcm2Pabec_LTxr2xigSg/edit?usp=sharing",
+                    "evidence": "",
+                    "assessment": ""
+                },
+                {
+                    "title": "How this course will work?",
+                    "plan": "pre-assess, teacher review results and go through outline, evaluations and expectations",
+                    "note": "",
+                    "expectation": "",
+                    "resource": "How my learning skills will be evaluated",
+                    "link": "https://docs.google.com/document/d/1tR54cmcFmeps1yVRj35Dgi90N8l6kzW2AopQnq83GFU/edit?usp=sharing",
+                    "evidence": "",
+                    "assessment": ""
+                },
+                {
+                    "title": "How should I take notes?",
+                    "plan": "students create a csnotes folder in Google Drive, create a Doc and share editing with me",
+                    "note": "",
+                    "expectation": "",
+                    "resource": "",
+                    "link": "",
+                    "evidence": "",
+                    "assessment": ""
+                },
+                {
+                    "title": "Learning programming is not difficult, but you have to be determined",
+                    "plan": "students watch video, are you ready to put some time in?",
+                    "note": "",
+                    "expectation": "",
+                    "resource": "Faces of Computer Science",
+                    "link": "https://www.youtube.com/watch?v=elaR3WhguVk",
+                    "evidence": "",
+                    "assessment": ""
+                },
+                {
+                    "title": "Complete Exit Ticket",
+                    "plan": "students submit an Exit Ticket for lesson 0 - ensure you link to your shared Google Doc for this class",
+                    "note": "",
+                    "expectation": "",
+                    "resource": "",
+                    "link": "",
+                    "evidence": "",
+                    "assessment": ""
+                }
+            ],
+            "vocabulary": [
+                ""
+            ]
+        },
+        {
+            "id": 1,
+            "name": "Why are there so many programming languages?",
+            "unit": "", 
+            "outcomes": [
+                {
+                    "title": "What is a programming language?",
+                    "plan": "students find a definition for their notes",
+                    "note": "",
+                    "expectation": "",
+                    "resource": "",
+                    "link": "",
+                    "evidence": "",
+                    "assessment": ""
+                },
+                {
+                    "title": "Why not program in binary or machine code?",
+                    "plan": "01010101 01000011 01000011 is binary for what? ... umm think there is a need higher level languages?",
+                    "note": "",
+                    "expectation": "",
+                    "resource": "Machine code - close to the metal!",
+                    "link": "https://upload.wikimedia.org/wikipedia/commons/c/c0/W65C816S_Machine_Code_Monitor.jpeg",
+                    "evidence": "",
+                    "assessment": ""
+                },
+                {
+                    "title": "Why do we need so many high level programming langugaes?",
+                    "plan": "teacher shows video and discussion?",
+                    "note": "",
+                    "expectation": "",
+                    "resource": "PHP vs. Python vs. Ruby vs. Java vs. .NET",
+                    "link": "https://www.youtube.com/watch?v=GQRjWxfz-PQ",
+                    "evidence": "",
+                    "assessment": ""
+                },
+                {
+                    "title": "What are some popular higher level languages?",
+                    "plan": "teacher review 10 popular languages, students take notes",
+                    "note": "",
+                    "expectation": "",
+                    "resource": "10 Languages to learn in 2016",
+                    "link": "http://www.codingdojo.com/blog/9-most-in-demand-programming-languages-of-2016/",
+                    "evidence": "",
+                    "assessment": ""
+                },
+                {
+                    "title": "What is the history of programming languages?",
+                    "plan": "teacher review history with students",
+                    "note": "",
+                    "expectation": "",
+                    "resource": "History of languages image",
+                    "link": "http://www1.ucc.on.ca/GEO/MrHoel/2015/ics4u/content/languages/lang.png",
+                    "evidence": "",
+                    "assessment": ""
+                },
+                {
+                    "title": "Challenge: test your knowledge of languages",
+                    "plan": "students complete crossword and take photo for their notes",
+                    "note": "",
+                    "expectation": "",
+                    "resource": "Languages crossword",
+                    "link": "http://www1.ucc.on.ca/GEO/MrHoel/2015/ics4u/content/languages/lng_xwrd.pdf",
+                    "evidence": "screenshot",
+                    "assessment": ""
+                },
+                {
+                    "title": "Quiz",
+                    "plan": "",
+                    "note": "",
+                    "expectation": "",
+                    "resource": "",
+                    "link": "",
+                    "evidence": "",
+                    "assessment": ""
+                }
+            ],
+            "vocabulary": [
+                "Programming language",
+                "Machine code", 
+                "Binary", 
+                "High level languages",  
+                "Compiled",
+                "Java",
+                "C", 
+                "C#",
+                "C++",
+                "Interpreted",
+                "PHP", 
+                "Javascript", 
+                "Python"
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Review of programming constructs using Python",
+            "unit": "", 
+            "outcomes": [
+                {
+                    "title": "Navigating and managing file system using Unix terminal",
+                    "plan": "students cd to /, then navigate to their user account, make a 'pythonstuff' directory and list - document in notes!",
+                    "note": "1. cd /Users/mhoel 2. mkdir pythonstuff 3. cd pythonstuff 4. pwd",
+                    "expectation": "",
+                    "resource": "Navigating and managing file system using Unix",
+                    "link": "https://drive.google.com/file/d/0B-67aGL87ij3MHZFSVNxVzNNOXM/view?usp=sharing",
+                    "evidence": "",
+                    "assessment": ""
+                },
+                {
+                    "title": "Hello world in Python :-)",
+                    "plan": "students create a .py file and execute their code - document",
+                    "note": "",
+                    "expectation": "",
+                    "resource": "",
+                    "link": "",
+                    "evidence": "",
+                    "assessment": ""
+                },
+                {
+                    "title": "What is SSRGMIO?",
+                    "plan": "students make notes on what SSRGMIO constructs are, provide example code in Python - document",
+                    "note": "",
+                    "expectation": "",
+                    "resource": "SSRGMIO graphic",
+                    "link": "https://drive.google.com/file/d/0B-67aGL87ij3TjNUcnNOZm9wc1U/view?usp=sharing",
+                    "evidence": "",
+                    "assessment": ""
+                },
+                {
+                    "title": "Solve a problem using SSR_MIO",
+                    "plan": "students attempt to solve problem 1 and 2 using Python - dont cheat",
+                    "note": "",
+                    "expectation": "",
+                    "resource": "CCC 2013 Junior problems",
+                    "link": "https://cemc.math.uwaterloo.ca/contests/computing/2013/stage1/juniorEn.pdf",
+                    "evidence": "",
+                    "assessment": ""
+                }
+            ],
+            "vocabulary": [
+                "Unix",
+                "cd",
+                "ls",
+                "pwd",
+                "mkdir",
+                "Python",
+                "Interpreter",
+                "SSRGMIO"
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Hello world using Java",
+            "unit": "", 
+            "outcomes": [
+                {
+                    "title": "Hello world in Java",
+                    "plan": "students open terminal, make 'javastuff' folder, teacher lead students through process, document in your notes",
+                    "note": "",
+                    "expectation": "",
+                    "resource": "Java hello world",
+                    "link": "https://drive.google.com/file/d/0B-67aGL87ij3QkJMQnF6VFdDX3c/view?usp=sharing",
+                    "evidence": "",
+                    "assessment": ""
+                },
+                {
+                    "title": "Structure of a Java program",
+                    "plan": "students read through article - what mistake did I make in the previous step? - teacher answer questions",
+                    "note": "class names should begin with a capital letter",
+                    "expectation": "",
+                    "resource": "Structure of Hello World",
+                    "link": "http://www.w3schools.in/java-tutorial/program-structure/",
+                    "evidence": "",
+                    "assessment": ""
+                },
+                {
+                    "title": "Compile and execute your program from the command line",
+                    "plan": "",
+                    "note": "",
+                    "expectation": "",
+                    "resource": "Compile and execute",
+                    "link": "https://drive.google.com/open?id=0B-67aGL87ij3ZmJqdTRsb0ctam8",
+                    "evidence": "",
+                    "assessment": ""
+                },
+                {
+                    "title": "The nature of Java: write once, run anywhere",
+                    "plan": "students read one pager, create Google Diagram for their notes, and be ready to discuss",
+                    "note": "",
+                    "expectation": "",
+                    "resource": "W3 Schools JVM",
+                    "link": "http://www.w3schools.in/java/java-virtual-machine/",
+                    "evidence": "",
+                    "assessment": ""
+                },
+                {
+                    "title": "What is the difference between Java and Python?",
+                    "plan": "students read comic and try to understand one of the main differences between Python and Java syntax",
+                    "note": "",
+                    "expectation": "",
+                    "resource": "Java vs Python Comic",
+                    "link": "https://drive.google.com/file/d/0B-67aGL87ij3TUN5LV8tZ0gzWUU/view?usp=sharing",
+                    "evidence": "",
+                    "assessment": ""
+                },
+                {
+                    "title": "Which language is better to learn?",
+                    "plan": "teacher show video, students discuss",
+                    "note": "",
+                    "expectation": "",
+                    "resource": "Video - Should I learn Java or Python?",
+                    "link": "https://www.youtube.com/watch?t=18&v=epXQMbnmlcY",
+                    "evidence": "",
+                    "assessment": ""
+                },
+                {
+                    "title": "Quiz",
+                    "plan": "Nature of Java, JVM and other important terms",
+                    "note": "",
+                    "expectation": "",
+                    "resource": "",
+                    "link": "",
+                    "evidence": "",
+                    "assessment": ""
+                }
+            ],
+            "vocabulary": [
+                ".java",
+                "javac <filename - with extension>",
+                ".class",
+                "java <filename - no extension>",
+                "compiled",
+                "interpreted",
+                "JVM",
+                "main method",
+                "public class"
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Outside Java Learning Resources",
+            "unit": "", 
+            "outcomes": [
+                {
+                    "title": "CodeAcademy Java",
+                    "plan": "students sign up and complete first lesson and quiz - screenshot and post it with your notes",
+                    "note": "",
+                    "expectation": "",
+                    "resource": "Lesson 1 Java CodeAcademy",
+                    "link": "https://www.codecademy.com/learn/learn-java",
+                    "evidence": "",
+                    "assessment": ""
+                },
+                {
+                    "title": "Review another tutorial site",
+                    "plan": "students research a good tutorial and post a review to share",
+                    "note": "",
+                    "expectation": "",
+                    "resource": "",
+                    "link": "",
+                    "evidence": "",
+                    "assessment": ""
+                },
+                {
+                    "title": "Review of memory variable data types",
+                    "plan": "teacher review primative data types for variables",
+                    "note": "",
+                    "expectation": "",
+                    "resource": "Article on data types",
+                    "link": "http://www.tutorialspoint.com/java/java_basic_datatypes.htm",
+                    "evidence": "",
+                    "assessment": ""
+                },
+                {
+                    "title": "Is Java statically or dynamically typed language?",
+                    "plan": "teacher review static vs. dynamic (java vs. python) - students brainstorm about reasons for each way of handling variable values",
+                    "note": "",
+                    "expectation": "",
+                    "resource": "Static vs. Dyanamic",
+                    "link": "https://dzone.com/articles/should-your-static-go-static",
+                    "evidence": "",
+                    "assessment": ""
+                },
+                {
+                    "title": "What are the bounds of data types?",
+                    "plan": "students read article, why use a long instead of an int? why use a float over a double?",
+                    "note": "",
+                    "expectation": "",
+                    "resource": "Gangnam Style - forces move from 32 to 64 bit integer",
+                    "link": "http://www.wired.com/2014/12/gangnam-style-youtube-math/",
+                    "evidence": "",
+                    "assessment": ""
+                },
+                {
+                    "title": "Review of operators",
+                    "plan": "teacher review relational (==, and arithmatic operators",
+                    "note": "",
+                    "expectation": "",
+                    "resource": "",
+                    "link": "",
+                    "evidence": "",
+                    "assessment": ""
+                },
+                {
+                    "title": "Quiz",
+                    "plan": "data types, arithmatic and relational operators, static vs dynamic, bounds of ints",
+                    "note": "",
+                    "expectation": "",
+                    "resource": "",
+                    "link": "",
+                    "evidence": "",
+                    "assessment": ""
+                }
+            ],
+            "vocabulary": [
+                "CodeAcademy",
+                "Primative Data types",
+                "int",
+                "boolean",
+                "char",
+                "Memory variables",
+                "Operators",
+                "Modulo operator",
+                "BEDMAS",
+                "Static typing",
+                "Dynamic typing",
+                "Bounds"
+            ]
+        },
+        {
+            "id": 5,
+            "name": "Programming constructs with Java",
+            "unit": "", 
+            "outcomes": [
+                {
+                    "title": "Java String class",
+                    "plan": "teacher introduce very popular and useful String class and methods",
+                    "note": "",
+                    "expectation": "",
+                    "resource": "Java String object",
+                    "link": "http://www.tutorialspoint.com/java/java_strings.htm",
+                    "evidence": "",
+                    "assessment": ""
+                },
+                {
+                    "title": "Working with Java String class",
+                    "plan": "students create String variable and work with some of the methods",
+                    "note": "",
+                    "expectation": "",
+                    "resource": "Example using String class",
+                    "link": "https://drive.google.com/file/d/0B-67aGL87ij3dW9HVjFRY1lmeTA/view?usp=sharing",
+                    "evidence": "",
+                    "assessment": ""
+                },
+                {
+                    "title": "If statements in Java",
+                    "plan": "teacher demo and students include an if statement in their Hello World",
+                    "note": "",
+                    "expectation": "",
+                    "resource": "",
+                    "link": "",
+                    "evidence": "",
+                    "assessment": ""
+                },
+                {
+                    "title": "For loop in Java",
+                    "plan": "teacher demo and students include an if statement in their Hello World",
+                    "note": "",
+                    "expectation": "",
+                    "resource": "",
+                    "link": "",
+                    "evidence": "",
+                    "assessment": ""
+                },
+                {
+                    "title": "While loop in Java",
+                    "plan": "teacher demo and students include an if statement in their Hello World",
+                    "note": "",
+                    "expectation": "",
+                    "resource": "",
+                    "link": "",
+                    "evidence": "",
+                    "assessment": ""
+                },
+                {
+                    "title": "Canadian Computing Contest Junior problems",
+                    "plan": "students look at problem 1 and think of how to solve, teacher step them through process",
+                    "note": "for loop, if, String methods",
+                    "expectation": "",
+                    "resource": "2013 ",
+                    "link": "https://cemc.math.uwaterloo.ca/contests/computing/2013/stage1/juniorEn.pdf",
+                    "evidence": "",
+                    "assessment": ""
+                },
+                {
+                    "title": "Canadian Computing Contest Junion 2013 - Next in Line code",
+                    "plan": "students check out code and comments, get it working and ask questions",
+                    "note": "into to Scanner and Integer classes",
+                    "expectation": "",
+                    "resource": "Next in line solution by Mr. Hoel",
+                    "link": "https://drive.google.com/file/d/0B-67aGL87ij3M0dScl9TdTVobUk/view?usp=sharing",
+                    "evidence": "",
+                    "assessment": ""
+                },
+                {
+                    "title": "Quiz",
+                    "plan": "String, if, loops on paper",
+                    "note": "",
+                    "expectation": "",
+                    "resource": "",
+                    "link": "",
+                    "evidence": "",
+                    "assessment": ""
+                }
+            ],
+            "vocabulary": [
+                "String class",
+                "String methods",
+                ".toUpperCase()",
+                "if else if else",
+                "for loop",
+                "while loop"
+            ]
+        },
+        {
+            "id": 6,
+            "name": "Programming constructs with Java II",
+            "unit": "", 
+            "outcomes": [
+                {
+                    "title": "How do I code SSRGMIO constructs using Java?",
+                    "plan": "students download constructs.java and try to get it working",
+                    "note": "",
+                    "expectation": "",
+                    "resource": "Constructs.java from GitHub",
+                    "link": "https://github.com/markhoel/ICS4U/blob/master/constructs.java",
+                    "evidence": "",
+                    "assessment": ""
+                },
+                {
+                    "title": "Adapt constructs.java",
+                    "plan": "students download countries data and get it to print every 2nd country",
+                    "note": "hint: use modulo operator",
+                    "expectation": "",
+                    "resource": "Country list",
+                    "link": "https://drive.google.com/open?id=1aWzGp9MTll5lsma-JjsJjzJNhDgMFcepEzm19rslsuM",
+                    "evidence": "",
+                    "assessment": ""
+                },
+                {
+                    "title": "What is the difference between nested and chained conditionals? Can you nest loops?",
+                    "plan": "students review constructs.java, do some nesting",
+                    "note": "",
+                    "expectation": "",
+                    "resource": "",
+                    "link": "",
+                    "evidence": "",
+                    "assessment": ""
+                },
+                {
+                    "title": "What are three different types of loops in Java? In what circumstances would you use each one?",
+                    "plan": "students read the link, add to constructs.java",
+                    "note": "",
+                    "expectation": "",
+                    "resource": "Loops in Java?",
+                    "link": "http://www.tutorialspoint.com/java/java_loop_control.htm",
+                    "evidence": "",
+                    "assessment": ""
+                },
+                {
+                    "title": "Quiz",
+                    "plan": "",
+                    "note": "",
+                    "expectation": "",
+                    "resource": "",
+                    "link": "",
+                    "evidence": "",
+                    "assessment": ""
+                }
+            ],
+            "vocabulary": [
+                "Nested", "Chained conditional","do while"
+            ]
+        },
+        {
+            "id": 7,
+            "name": "Test (Assessment of learning)",
+            "unit": "", 
+            "outcomes": [
+                {
+                    "title": "Format, topics and preparation?",
+                    "plan": "students review, ask questions and prepare",
+                    "note": "",
+                    "expectation": "",
+                    "resource": "October test",
+                    "link": "https://drive.google.com/open?id=0B-67aGL87ij3c0I3MGNpaWVTaVk",
+                    "evidence": "",
+                    "assessment": ""
+                }
+            ],
+            "vocabulary": [
+                ""
+            ]
+        },
+        {
+            "id": 8,
+            "name": "Game: Graphics and modularity",
+            "unit": "OBJECT ORIENTED PROGRAMMING AND VOCABULARY", 
+            "outcomes": [
+                {
+                    "title": "Create a graphics window using Javax.swing library",
+                    "plan": "students view and copy code into a .java ",
+                    "note": "",
+                    "expectation": "",
+                    "resource": "myscreen code image",
+                    "link": "https://drive.google.com/file/d/0B-67aGL87ij3OFVEZUpXZ0VERWs/view?usp=sharing",
+                    "evidence": "",
+                    "assessment": ""
+                },
+                {
+                    "title": "OOP vocabulary",
+                    "plan": "teacher leads students through code using OOP vocabulary, students add comments to their code",
+                    "note": "",
+                    "expectation": "",
+                    "resource": "",
+                    "link": "",
+                    "evidence": "",
+                    "assessment": ""
+                },
+                {
+                    "title": "Create a drawing Canvas using Java.awt library",
+                    "plan": "students view and copy code into a .java",
+                    "note": "",
+                    "expectation": "",
+                    "resource": "mycanvas code image",
+                    "link": "https://drive.google.com/file/d/0B-67aGL87ij3UE5xbzhzQ3NwdlU/view?usp=sharing",
+                    "evidence": "",
+                    "assessment": ""
+                },
+                {
+                    "title": "Attach canvas to the screen",
+                    "plan": "students add code to Myscreen to instantiate a canvas and attach it to the screen",
+                    "note": "",
+                    "expectation": "",
+                    "resource": "attach mycanvas code image",
+                    "link": "https://drive.google.com/file/d/0B-67aGL87ij3aWtsNzhJLWpyVkk/view?usp=sharing",
+                    "evidence": "",
+                    "assessment": ""
+                },
+                {
+                    "title": "What is the difference between JFrame and Canvas?",
+                    "plan": "teacher show image, students ask questions",
+                    "note": "",
+                    "expectation": "",
+                    "resource": "JFrame vs Canvas",
+                    "link": "http://www1.ucc.on.ca/GEO/MrHoel/2015/ics4u/content/game/fram_can.png",
+                    "evidence": "",
+                    "assessment": ""
+                },
+                {
+                    "title": "Why split up code into multiple files?",
+                    "plan": "students brain storm benefits to modularizing code",
+                    "note": "",
+                    "expectation": "",
+                    "resource": "",
+                    "link": "",
+                    "evidence": "",
+                    "assessment": ""
+                },
+                {
+                    "title": "How do I replace oval with image?",
+                    "plan": "teacher show students how to create stuff folder - students put image here and research how to draw an image on a Canvas",
+                    "note": "Image img = Toolkit.getDefaultToolkit().getImage('../stuff/someimage.png');",
+                    "expectation": "",
+                    "resource": "",
+                    "link": "",
+                    "evidence": "",
+                    "assessment": ""
+                },
+                {
+                    "title": "Quiz - OOP vocabulary",
+                    "plan": "",
+                    "note": "",
+                    "expectation": "",
+                    "resource": "",
+                    "link": "https://drive.google.com/file/d/0B-67aGL87ij3MHVQOWRRdExrYVU/view?usp=sharing",
+                    "evidence": "",
+                    "assessment": ""
+                }
+            ],
+            "vocabulary": [
+                "import", "Swing", "JFrame", "extending", "inheritance", "new", "instance", "instantiate", "constructor", "setter", "mutator method", "Awt","Canvas", "override", "paint method", "Graphics", "getter", "accessor method"
+            ]
+        },
+        {
+            "id": 9,
+            "name": "Game: Listening for user input",
+            "unit": "", 
+            "outcomes": [
+                {
+                    "title": "What is an event listener?",
+                    "plan": "students research event listeners and discuss as a class",
+                    "note": "",
+                    "expectation": "",
+                    "resource": "event driven programming",
+                    "link": "http://bytecodetechnosolutions.com/Android/TutorialsHub/Pages/UI/Images/event-driven.jpg",
+                    "evidence": "",
+                    "assessment": ""
+                },
+                {
+                    "title": "How can you implement a key listener interface on a Canvas?",
+                    "plan": "teacher demo how to 'implement' a key listener 'interface' on your extended Canvas class, students take notes",
+                    "note": "A Java interface is a bit like a class, except a Java interface can only contain methods and variables. You may implement multiple interfaces, but extend only one class",
+                    "expectation": "",
+                    "resource": "Java keylistener interface",
+                    "link": "https://docs.oracle.com/javase/7/docs/api/java/awt/event/KeyListener.html",
+                    "evidence": "",
+                    "assessment": ""
+                },
+                {
+                    "title": "New MyCanvas code - students copy",
+                    "plan": "students copy get new code working and make it fully functional",
+                    "note": "",
+                    "expectation": "",
+                    "resource": "Implement key listener",
+                    "link": "https://drive.google.com/file/d/0B-67aGL87ij3aFJxNXhSdmlxZzQ/view?usp=sharing",
+                    "evidence": "",
+                    "assessment": ""
+                },
+                {
+                    "title": "Challenge: How can I make MyCanvas focused when it loads?",
+                    "plan": "students view methods of Canvas available in Constructor method, and find one that puts focus on canvas",
+                    "note": "super simple - this.setFocusable(true);",
+                    "expectation": "",
+                    "resource": "",
+                    "link": "",
+                    "evidence": "",
+                    "assessment": ""
+                }
+            ],
+            "vocabulary": [
+                "Listener",
+                "Implements",
+                "Interface",
+                "Override",
+                "setFocusable()",
+                "Methods"
+            ]
+        },
+        {
+            "id": 10,
+            "name": "Game: Move your character around",
+            "unit": "", 
+            "outcomes": [
+                {
+                    "title": "Movement code",
+                    "plan": "students get new code working and make it fully functional",
+                    "note": "",
+                    "expectation": "",
+                    "resource": "Implement move code",
+                    "link": "https://drive.google.com/file/d/0B-67aGL87ij3R3U3b09KTFh6cE0/view?usp=sharing",
+                    "evidence": "",
+                    "assessment": ""
+                },
+                {
+                    "title": "How to determine what key is pressed?",
+                    "plan": "students review KeyEvent getter methods to see how to return key pressed data",
+                    "note": "",
+                    "expectation": "",
+                    "resource": "KeyEvent",
+                    "link": "https://docs.oracle.com/javase/7/docs/api/java/awt/event/KeyEvent.html",
+                    "evidence": "",
+                    "assessment": ""
+                }
+            ],
+            "vocabulary": [
+                "KeyEvent"
+            ]
+        },
+        {
+            "id": 11,
+            "name": "Game: Adding audio",
+            "unit": "", 
+            "outcomes": [
+                {
+                    "title": "How to add audio to your game?",
+                    "plan": "teacher demo and students implement audio in MyScreen main method",
+                    "note": "check out playIt() method",
+                    "expectation": "",
+                    "resource": "How to add audio",
+                    "link": "https://drive.google.com/open?id=0B-67aGL87ij3ODZhc1hPdVFDbnc",
+                    "evidence": "",
+                    "assessment": ""
+                },
+                {
+                    "title": "Looking for a great audio file? This is a classic!",
+                    "plan": "students download and place in stuff folder",
+                    "note": "",
+                    "expectation": "",
+                    "resource": "Song of Storms",
+                    "link": "https://drive.google.com/file/d/0B-67aGL87ij3S0ZQVW51ek41dEk/view?usp=sharing",
+                    "evidence": "",
+                    "assessment": ""
+                },
+                {
+                    "title": "What is exception handling?",
+                    "plan": "students read article (focus on try catch blocks) and take notes, prepare to discuss",
+                    "note": "",
+                    "expectation": "",
+                    "resource": "What are exceptions",
+                    "link": "http://www.tutorialspoint.com/java/java_exceptions.htm",
+                    "evidence": "",
+                    "assessment": ""
+                },
+                {
+                    "title": "List of 'built-in' Java exceptions",
+                    "plan": "students review list and prepare for discussion - where is IOException?",
+                    "note": "",
+                    "expectation": "",
+                    "resource": "Java list",
+                    "link": "https://www.tutorialspoint.com/java/java_builtin_exceptions.htm",
+                    "evidence": "",
+                    "assessment": ""
+                },
+                {
+                    "title": "What does deprectiated code mean?",
+                    "plan": "students read article from Oracle, make notes and get ready for discussion",
+                    "note": "",
+                    "expectation": "",
+                    "resource": "How and When to Depreciate",
+                    "link": "http://docs.oracle.com/javase/7/docs/technotes/guides/javadoc/deprecation/deprecation.html",
+                    "evidence": "",
+                    "assessment": ""
+                }
+            ],
+            "vocabulary": [
+                "Exception handling",
+                "try catch block",
+                "IOException",
+                "Depretiated code"
+            ]
+        },
+        {
+            "id": 12,
+            "name": "Game: Detecting collisions",
+            "unit": "", 
+            "outcomes": [
+                {
+                    "title": "How to add edge collision detection to your game?",
+                    "plan": "teacher demo basics and students add screen barriers to their game",
+                    "note": "",
+                    "expectation": "",
+                    "resource": "Collision detection graphic",
+                    "link": "https://drive.google.com/file/d/0B-67aGL87ij3THctOFJscXQtTVE/view?usp=sharing",
+                    "evidence": "",
+                    "assessment": ""
+                },
+                {
+                    "title": "How to add character (rectangle) collision detection to your game?",
+                    "plan": "teacher demo basics and students add character collision to their game",
+                    "note": "",
+                    "expectation": "",
+                    "resource": "Collision detection rectangle",
+                    "link": "https://drive.google.com/file/d/0B-67aGL87ij3ejBLbl9ncS1nR1E/view?usp=sharing",
+                    "evidence": "",
+                    "assessment": ""
+                }
+            ],
+            "vocabulary": [
+                ""
+            ]
+        },
+        {
+            "id": 13,
+            "name": "Eclipse Integrated Development Environment (IDE)",
+            "unit": "", 
+            "outcomes": [
+                {
+                    "title": "Download Eclipse",
+                    "plan": "student download and install latest version with developer tools",
+                    "note": "",
+                    "expectation": "",
+                    "resource": "Eclipse downloads",
+                    "link": "https://eclipse.org/downloads/",
+                    "evidence": "",
+                    "assessment": ""
+                },
+                {
+                    "title": "Setup workspace",
+                    "plan": "student create a workspace in a location on their hard drive",
+                    "note": "",
+                    "expectation": "",
+                    "resource": "",
+                    "link": "",
+                    "evidence": "",
+                    "assessment": ""
+                },
+                {
+                    "title": "Create first Java project",
+                    "plan": "students create Java project, package, data 'stuff' folder and new class for hello world",
+                    "note": "",
+                    "expectation": "",
+                    "resource": "",
+                    "link": "",
+                    "evidence": "",
+                    "assessment": ""
+                },
+                {
+                    "title": "Benefits of an IDE?",
+                    "plan": "students make a list of 5 benefits",
+                    "note": "code completion, line numbering, colour coding, resource management, auto-debugging, auto-import, compiling and running",
+                    "expectation": "",
+                    "resource": "adv and disadv",
+                    "link": "https://salfarisi25.wordpress.com/2010/12/22/advantage-and-disadvantage-of-using-ide/",
+                    "evidence": "",
+                    "assessment": ""
+                }
+            ],
+            "vocabulary": [
+                "Eclipse", "workspace", "IDE"
+            ]
+        },
+        {
+            "id": 14,
+            "name": "Good coding practice and Javadoc",
+            "unit": "", 
+            "outcomes": [
+                {
+                    "title": "Animation code sample",
+                    "plan": "students download animation code sample and see it working",
+                    "note": "",
+                    "expectation": "",
+                    "resource": "Game.java from GitHub",
+                    "link": "https://github.com/markhoel/ICS4U/blob/master/game.java",
+                    "evidence": "",
+                    "assessment": ""
+                },
+                {
+                    "title": "Comments",
+                    "plan": "students add multiline banner (author, date, purpose, updates, attribution), single line comments to explain code",
+                    "note": "",
+                    "expectation": "",
+                    "resource": "",
+                    "link": "",
+                    "evidence": "",
+                    "assessment": ""
+                },
+                {
+                    "title": "Indenting",
+                    "plan": "students fix indenting so that code is easier to read",
+                    "note": "",
+                    "expectation": "",
+                    "resource": "",
+                    "link": "",
+                    "evidence": "",
+                    "assessment": ""
+                },
+                {
+                    "title": "Descriptive variable naming and cameling",
+                    "plan": "students ensure that variables have descriptive names and are cameled for readability",
+                    "note": "",
+                    "expectation": "",
+                    "resource": "",
+                    "link": "",
+                    "evidence": "",
+                    "assessment": ""
+                },
+                {
+                    "title": "Javadoc",
+                    "plan": "students add Javadoc comments and tags and create Javadoc for the game code - projects without Javadoc won't be accepted",
+                    "note": "",
+                    "expectation": "",
+                    "resource": "Javadoc wikipedia",
+                    "link": "https://en.wikipedia.org/wiki/Javadoc",
+                    "evidence": "",
+                    "assessment": ""
+                }
+            ],
+            "vocabulary": [
+                "multi-line comment","single-line comment","Javadoc comments","Javadoc tags","banner", "cameling","variable naming","indenting"
+            ]
+        },
+        {
+            "id": 15,
+            "name": "GitHub code version control system",
+            "unit": "", 
+            "outcomes": [
+                {
+                    "title": "What is source code version control? What is it for?",
+                    "plan": "students watch video, take notes and prepare for discussion",
+                    "note": "",
+                    "expectation": "",
+                    "resource": "Intro to source control",
+                    "link": "https://www.youtube.com/watch?v=K0mgc3efx-A",
+                    "evidence": "",
+                    "assessment": ""
+                },
+                {
+                    "title": "GitHub CVC",
+                    "plan": "students set up their own GitHub accounts",
+                    "note": "",
+                    "expectation": "",
+                    "resource": "GitHub website",
+                    "link": "https://github.com/",
+                    "evidence": "",
+                    "assessment": ""
+                },
+                {
+                    "title": "Setting up GitHub",
+                    "plan": "students watch video",
+                    "note": "",
+                    "expectation": "",
+                    "resource": "Software versioning control using GitHub and Eclipse ",
+                    "link": "https://www.youtube.com/watch?v=fSWXAke7I78",
+                    "evidence": "",
+                    "assessment": ""
+                },
+                {
+                    "title": "GitHub organizations and teams",
+                    "plan": "students create an organization, a repository with code, make two teams and invite friends - document process",
+                    "note": "",
+                    "expectation": "",
+                    "resource": "",
+                    "link": "",
+                    "evidence": "",
+                    "assessment": ""
+                }
+            ],
+            "vocabulary": [
+                "Source code version control","GitHub","repository","pull","push","commit","merge","branch","fork","edit tracking","backup"
+            ]
+        },
+        {
+            "id": 16,
+            "name": "Randomly appearing badguys and array datatype",
+            "unit": "", 
+            "outcomes": [
+                {
+                    "title": "What is an array?",
+                    "plan": "students read article and try to create some arrays in Eclipse",
+                    "note": "",
+                    "expectation": "",
+                    "resource": "W3Schools Java Array",
+                    "link": "http://www.w3schools.in/java-tutorial/arrays/",
+                    "evidence": "",
+                    "assessment": ""
+                },
+                {
+                    "title": "What is an enhanced for loop?",
+                    "plan": "students read article and try to loop through an array using regular and enhanced for loop",
+                    "note": "",
+                    "expectation": "",
+                    "resource": "enhanced for loop article",
+                    "link": "http://www.programmingsimplified.com/java/source-code/enhanced-for-loop-java",
+                    "evidence": "",
+                    "assessment": ""
+                },
+                {
+                    "title": "Making a Badguy class with private property variables and Accessor methods",
+                    "plan": "students go to Github and download material and create a new Java Project from it in Eclipse",
+                    "note": "",
+                    "expectation": "",
+                    "resource": "GitHub testassets",
+                    "link": "https://github.com/ics4uboys/testassets",
+                    "evidence": "",
+                    "assessment": ""
+                },
+                {
+                    "title": "Adapt new code",
+                    "plan": "students try to understand and adapt new code to make a better video game",
+                    "note": "",
+                    "expectation": "",
+                    "resource": "",
+                    "link": "",
+                    "evidence": "",
+                    "assessment": ""
+                },
+                {
+                    "title": "Quiz",
+                    "plan": "arrays, private variables, enhanced for loop",
+                    "note": "",
+                    "expectation": "",
+                    "resource": "",
+                    "link": "",
+                    "evidence": "",
+                    "assessment": ""
+                }
+            ],
+            "vocabulary": [
+                "Array", "Exhanced for loop", "private variables"
+            ]
+        },
+        {
+            "id": 17,
+            "name": "Performance task: modifying existing code to create a prescribed game (Assessment of learning)",
+            "unit": "", 
+            "outcomes": [
+                {
+                    "title": "How will I be evaluated (rubric)?",
+                    "plan": "",
+                    "note": "",
+                    "expectation": "",
+                    "resource": "rubric",
+                    "link": "https://docs.google.com/a/ucc.on.ca/forms/d/e/1FAIpQLScdNvwSLmsfG93cn9JZkpQ1Ccm7PAU8SowfHTroKlnAY20FkA/viewform",
+                    "evidence": "",
+                    "assessment": ""
+                },
+                {
+                    "title": "What assets will I need for the test?",
+                    "plan": "",
+                    "note": "",
+                    "expectation": "",
+                    "resource": "test assets",
+                    "link": "https://drive.google.com/open?id=0B-67aGL87ij3NW1MQXNnak5GbGM",
+                    "evidence": "",
+                    "assessment": ""
+                }
+            ],
+            "vocabulary": [
+                ""
+            ]
+        },
+        {
+            "id": 18,
+            "name": "Review of modular programming",
+            "unit": "MODDING MINECRAFT USING OOP", 
+            "outcomes": [
+                {
+                    "title": "What is modular programming?",
+                    "plan": "students research and write a definition of modular programming IN THEIR OWN WORDS in their notes",
+                    "note": "",
+                    "expectation": "",
+                    "resource": "Modular programming Wiki",
+                    "link": "https://en.wikipedia.org/wiki/Modular_programming",
+                    "evidence": "",
+                    "assessment": ""
+                },
+                {
+                    "title": "Payoffs of modularization and achieving modularity in Java",
+                    "plan": "teacher present, students take notes, prepare for quiz",
+                    "note": "readability, shorter code, reuse, maintainability, debugging - import classes, create your own custom classes, create your own custom class methods, place only minimal code in main method",
+                    "expectation": "",
+                    "resource": "presentation",
+                    "link": "https://docs.google.com/presentation/d/1i8dxCYNngewcOflsJMi2ziOJ4R-arZnVJ0V0Q2_2D2k/edit?usp=sharing",
+                    "evidence": "",
+                    "assessment": ""
+                },
+                {
+                    "title": "Quiz: What are the payoffs of modularization",
+                    "plan": "students write quiz on 3 ways and 5 payoffs of modularization",
+                    "note": "",
+                    "expectation": "",
+                    "resource": "",
+                    "link": "",
+                    "evidence": "",
+                    "assessment": ""
+                }
+            ],
+            "vocabulary": [
+                "Modular programming","Code reuse","Readability","Maintainability"
+            ]
+        },
+        {
+            "id": 19,
+            "name": "Install Minecraft and Forge",
+            "unit": "", 
+            "outcomes": [
+                {
+                    "title": "What is Minecraft Forge?",
+                    "plan": "students research Minecraft Forge, take notes and prepare for discussion",
+                    "note": "Java based API for Minecraft",
+                    "expectation": "",
+                    "resource": "",
+                    "link": "",
+                    "evidence": "",
+                    "assessment": ""
+                },
+                {
+                    "title": "Download fresh Minecraft Forge",
+                    "plan": "Download install files",
+                    "note": "",
+                    "expectation": "",
+                    "resource": "fresh forge",
+                    "link": "https://drive.google.com/file/d/0B-67aGL87ij3UXhoTkVBUWtFT0E/view?usp=sharing",
+                    "evidence": "",
+                    "assessment": ""
+                },
+                {
+                    "title": "How do I install Minecraft Forge?",
+                    "plan": "students follow instructions on linked document",
+                    "note": "",
+                    "expectation": "",
+                    "resource": "install instructions",
+                    "link": "https://docs.google.com/document/d/1JT5SxB8kpJ1SX-Cwwd8yVMOJSTLzOpm1mUXgqqPPdbY/edit?usp=sharing",
+                    "evidence": "",
+                    "assessment": ""
+                },
+                {
+                    "title": "Questions about Minecraft",
+                    "plan": "students get Minecraft working and ask questions of peers",
+                    "note": "",
+                    "expectation": "",
+                    "resource": "",
+                    "link": "",
+                    "evidence": "",
+                    "assessment": ""
+                }
+            ],
+            "vocabulary": [
+                "Forge", "Minecraft"
+            ]
+        },
+        {
+            "id": 20,
+            "name": "Create your own Minecraft block",
+            "unit": "", 
+            "outcomes": [
+                {
+                    "title": "What are the steps to making a Minecraft mod?",
+                    "plan": "students watch video and take notes",
+                    "note": "",
+                    "expectation": "",
+                    "resource": "intro to tutorial mod",
+                    "link": "https://www.youtube.com/watch?v=WAKyYUA_oeQ",
+                    "evidence": "",
+                    "assessment": ""
+                },
+                {
+                    "title": "What is the structure of a Minecraft mod?",
+                    "plan": "students review diagram and try to create ",
+                    "note": "",
+                    "expectation": "",
+                    "resource": "Mod structure",
+                    "link": "http://www1.ucc.on.ca/GEO/MrHoel/Minecraft/images/modschema.png",
+                    "evidence": "",
+                    "assessment": ""
+                },
+                {
+                    "title": "BlockTutorialBlock code to copy - part 1",
+                    "plan": "students create tutorialblock code in correct location",
+                    "note": "",
+                    "expectation": "",
+                    "resource": "part 1",
+                    "link": "https://drive.google.com/open?id=0B-67aGL87ij3TjdseFZ3N0tMQzQ",
+                    "evidence": "",
+                    "assessment": ""
+                },
+                {
+                    "title": "BlockTutorialBlock code to copy - part 2",
+                    "plan": "students create tutorialblock code in correct location",
+                    "note": "",
+                    "expectation": "",
+                    "resource": "part 2",
+                    "link": "https://drive.google.com/open?id=0B-67aGL87ij3TUxsOUFrQlNITTA",
+                    "evidence": "",
+                    "assessment": ""
+                },
+                {
+                    "title": "Tutorial mod code",
+                    "plan": "students create tutorialblock code in correct location",
+                    "note": "",
+                    "expectation": "",
+                    "resource": "",
+                    "link": "https://drive.google.com/open?id=0B-67aGL87ij3a3RvLTFNaTIxeU0",
+                    "evidence": "",
+                    "assessment": ""
+                },
+                {
+                    "title": "Challenge: Make a 'selfie' block",
+                    "plan": "students take photos of all sides of your head to texturize your block",
+                    "note": "crop selfies to 512x512 (optimal) and export as png from Preview - then drag into assets.tutorial.textures.blocks",
+                    "expectation": "",
+                    "resource": "",
+                    "link": "",
+                    "evidence": "",
+                    "assessment": ""
+                },
+                {
+                    "title": "Why is my texture fuzzy?",
+                    "plan": "students change options > video settings > mitmap to 0",
+                    "note": "",
+                    "expectation": "",
+                    "resource": "mit map",
+                    "link": "https://drive.google.com/file/d/0B-67aGL87ij3eFZ4QUhHSlV1Nzg/view?usp=sharing",
+                    "evidence": "",
+                    "assessment": ""
+                }
+   
+            ],
+            "vocabulary": [
+                "mod class", "Block class", "assets"
+            ]
+        },
+        {
+            "id": 21,
+            "name": "Update properties of your block",
+            "unit": "", 
+            "outcomes": [
+                {
+                    "title": "Review object instantiation using class templates",
+                    "plan": "teacher review terms instance, instantiate and class template",
+                    "note": "",
+                    "expectation": "",
+                    "resource": "cookie cutter image",
+                    "link": "http://www1.ucc.on.ca/GEO/MrHoel/2015/ics4u/images/cookie.png",
+                    "evidence": "",
+                    "assessment": ""
+                },
+                {
+                    "title": "What are accessors and mutator methods?",
+                    "plan": "students find examples from the Minecraft Block class for notes?",
+                    "note": "",
+                    "expectation": "",
+                    "resource": "Block.java",
+                    "link": "https://github.com/Bukkit/mc-dev/blob/master/net/minecraft/server/Block.java",
+                    "evidence": "",
+                    "assessment": ""
+                },
+                {
+                    "title": "What is data hiding (encapsulation)?",
+                    "plan": "students watch video (0 to 3:00) and take notes on private instance properties/variables and public setters and getters",
+                    "note": "",
+                    "expectation": "",
+                    "resource": "Encapsulation video",
+                    "link": "https://www.youtube.com/watch?v=DuV58efP1lA",
+                    "evidence": "",
+                    "assessment": ""
+                },
+                {
+                    "title": "Why use setters and getters over accessing instance properties directly?",
+                    "plan": "teacher show code example of why to use setters and getters, introduce public and private variables",
+                    "note": "",
+                    "expectation": "",
+                    "resource": "human code example ppt",
+                    "link": "https://drive.google.com/open?id=0B-67aGL87ij3M0hTV1NwLWlqZUU",
+                    "evidence": "",
+                    "assessment": ""
+                },
+                {
+                    "title": "Challenge: Make changes to your Block (i.e., hardness, light level, light opacity, resistance, step sound)",
+                    "plan": "students watch video and alter constructor to add properties like 'this.setHardness(1F);",
+                    "note": "",
+                    "expectation": "",
+                    "resource": "Properties video",
+                    "link": "https://www.youtube.com/watch?v=cKHKFiH4AFY",
+                    "evidence": "",
+                    "assessment": ""
+                },
+                {
+                    "title": "Challenge 2: Make changes to your block to add event driven code",
+                    "plan": "teacher show how to access properties and methods of Block class (onBlockPlaced, onBlockDestroyedByPlayer)",
+                    "note": "",
+                    "expectation": "",
+                    "resource": "Properties and methods of block",
+                    "link": "https://drive.google.com/file/d/0B-67aGL87ij3R2dReEpVUTlLM2s/view?usp=sharing",
+                    "evidence": "",
+                    "assessment": ""
+                },
+                {
+                    "title": "HINTS: Block events",
+                    "plan": "teacher tell students about @Override label, block class event order and isRemote method",
+                    "note": "BLOCK EVENT ORDER/PROCESSING: onBlockPlaced() client, onBlockPlacedBy() client, onBlockPlaced() server, onBlockAdded() serve , onBlockPlacedBy() server - to ensure you do not have duplicate (server side created) creatures spawned on an event check to see if world.isRemote",
+                    "expectation": "",
+                    "resource": "Block events",
+                    "link": "http://www.minecraftforge.net/forum/index.php?topic=12161.0",
+                    "evidence": "",
+                    "assessment": ""
+                }
+            ],
+            "vocabulary": [
+                "Mutator",
+                "Setter",
+                "Accessor",
+                "Getter",
+                "Encapsulation",
+                "Data hiding",
+                "Public and Private variables",
+                "Events",
+                "onBlockPlaced",
+                "isRemote"
+            ]
+        },
+        {
+            "id": 22,
+            "name": "Create your own item",
+            "unit": "", 
+            "outcomes": [
+                {
+                    "title": "How can I extend the Minecraft Item class to make my own Lightning Sword item!?",
+                    "plan": "students watch video and create their item",
+                    "note": "",
+                    "expectation": "",
+                    "resource": "item video",
+                    "link": "https://www.youtube.com/watch?v=lbv751qvxHY",
+                    "evidence": "",
+                    "assessment": ""
+                },
+                {
+                    "title": "Where can I get the ItemTutorialItem code?",
+                    "plan": "students place this code in the correct folder in their Eclipse workspace",
+                    "note": "",
+                    "expectation": "",
+                    "resource": "ItemTutorialItem.java",
+                    "link": "https://docs.google.com/document/d/1Cegkv31BfKY5MknDmp05EKDK4hx_l204VIfIdWg7BLQ/edit?usp=sharing",
+                    "evidence": "",
+                    "assessment": ""
+                },
+                {
+                    "title": "Challenge 1: create an instance of your new ItemTutorialItem class and register it in Tutorial.java",
+                    "plan": "students complete challenge",
+                    "note": "",
+                    "expectation": "",
+                    "resource": "",
+                    "link": "",
+                    "evidence": "",
+                    "assessment": ""
+                },
+                {
+                    "title": "Challenge 2: create en_US.lang in correct folder structure and give your item a cool name",
+                    "plan": "students complete challenge",
+                    "note": "",
+                    "expectation": "",
+                    "resource": "",
+                    "link": "",
+                    "evidence": "",
+                    "assessment": ""
+                },
+                {
+                    "title": "Challenge 3: create correct folder structure and place a texture image for your item",
+                    "plan": "students complete challenge and take screen shots showing your code working",
+                    "note": "",
+                    "expectation": "",
+                    "resource": "",
+                    "link": "",
+                    "evidence": "",
+                    "assessment": ""
+                }
+            ],
+            "vocabulary": [
+                ""
+            ]
+        },
+        {
+            "id": 23,
+            "name": "Adding custom sounds to Minecraft",
+            "unit": "", 
+            "outcomes": [
+                {
+                    "title": "How do I add sounds to my mod?",
+                    "plan": "teacher show students video",
+                    "note": "Custom sounds are relatively easy to accomplish in Minecraft, only 3 steps. Simply place OGG sounds files in the correct folder, place a file containing code to point to these files and then implement the sound in code using a single line.",
+                    "expectation": "",
+                    "resource": "custom sounds",
+                    "link": "https://www.youtube.com/embed/3rzjm2JT-V4",
+                    "evidence": "",
+                    "assessment": ""
+                },
+                {
+                    "title": "What is json?",
+                    "plan": "students research .json format",
+                    "note": "JSON (JavaScript Object Notation) is a lightweight data-interchange format. It is easy for humans to read and write. It is easy for machines to parse and generate. Minecraft uses JSON files to handle lists of custom sounds in a Mod.",
+                    "expectation": "",
+                    "resource": "",
+                    "link": "",
+                    "evidence": "",
+                    "assessment": ""
+                },
+                {
+                    "title": "What is ogg?",
+                    "plan": "students research .ogg format",
+                    "note": "Ogg is a free audio format. Minecraft uses OGG files to play sounds.",
+                    "expectation": "",
+                    "resource": "",
+                    "link": "",
+                    "evidence": "",
+                    "assessment": ""
+                },
+                {
+                    "title": "How to create an OGG file?",
+                    "plan": "students view image and create a sound in Audacity",
+                    "note": "",
+                    "expectation": "",
+                    "resource": "audio image",
+                    "link": "https://drive.google.com/open?id=0B-67aGL87ij3VTFhcFBkeXBzR3M",
+                    "evidence": "",
+                    "assessment": ""
+                },
+                {
+                    "title": "What changes do I make to Minecraft Forge implement a sound?",
+                    "plan": "students view image and make changes in Eclipse",
+                    "note": "",
+                    "expectation": "",
+                    "resource": "Eclipse sound image",
+                    "link": "https://drive.google.com/open?id=0B-67aGL87ij3enRXWkpyczdaZkE",
+                    "evidence": "",
+                    "assessment": ""
+                },
+                {
+                    "title": "What line of code will play a sound?",
+                    "plan": "students view image and make changes in code",
+                    "note": "",
+                    "expectation": "",
+                    "resource": "play sound image",
+                    "link": "https://drive.google.com/open?id=0B-67aGL87ij3RzVaUXBPaVBqTGs",
+                    "evidence": "",
+                    "assessment": ""
+                }
+            ],
+            "vocabulary": [
+                "json","ogg"
+            ]
+        },
+        {
+            "id": -99,
+            "name": "Genius hour - Make your own Mod",
+            "unit": "", 
+            "outcomes": [
+                {
+                    "title": "",
+                    "plan": "",
+                    "note": "",
+                    "expectation": "",
+                    "resource": "",
+                    "link": "",
+                    "evidence": "",
+                    "assessment": ""
+                }
+            ],
+            "vocabulary": [
+                ""
+            ]
+        },
+        {
+            "id": 25,
+            "name": "Written test (Assessment of learning)",
+            "unit": "", 
+            "outcomes": [
+                {
+                    "title": "Topics, format",
+                    "plan": "40 multiple choice questions based on terms, concepts from this year",
+                    "note": "",
+                    "expectation": "",
+                    "resource": "",
+                    "link": "https://docs.google.com/document/d/17NuNEWRqbmCAeZtWv-lL-6WM5qtk5zJXipJvo08-z9g/edit?usp=sharing",
+                    "evidence": "",
+                    "assessment": ""
+                }
+                
+            ],
+            "vocabulary": [
+                ""
+            ]
+        },
+        {
+            "id": 26,
+            "name": "Preparation",
+            "unit": "DECEMBER EXAM ", 
+            "outcomes": [
+                {
+                    "title": "Performance task: demonstrate knowledge of OOP using Minecraft (Assessment of learning)",
+                    "plan": "students review the rubric and practice",
+                    "note": "",
+                    "expectation": "",
+                    "resource": "Dec. Exam",
+                    "link": "https://docs.google.com/a/ucc.on.ca/forms/d/e/1FAIpQLSdbWDLL8ORc7LyYpvAOYmCnFho3zKRihCgAd5LyLRYRtQ7k9g/viewform",
+                    "evidence": "",
+                    "assessment": ""
+                }
+            ],
+            "vocabulary": [
+                ""
+            ]
+        },
+        {
+            "id": 27,
+            "name": "Arrays and lists",
+            "unit": "ARRAYS, FILE I/O and ALGORITHMS ", 
+            "outcomes": [
+                {
+                    "title": "Review array data type?",
+                    "plan": "teacher explain, students take notes and discuss",
+                    "note": "",
+                    "expectation": "",
+                    "resource": "array image",
+                    "link": "http://www.introprogramming.info/wp-content/uploads/2013/07/clip_image00213.png",
+                    "evidence": "",
+                    "assessment": ""
+                },
+                {
+                    "title": "Arrays vs ArrayLists",
+                    "plan": "students watch video and make T-chart on differences",
+                    "note": "fixed vs dynamic, array faster, array only one type of data, arraylist more than one data type, arraylist more flexible, arrays can use primatives",
+                    "expectation": "",
+                    "resource": "arrays vs arraylist video",
+                    "link": "https://www.youtube.com/watch?v=ZVJ7kpEMc7U",
+                    "evidence": "",
+                    "assessment": ""
+                }
+            ],
+            "vocabulary": [
+                "Array", "ArrayList", "Element", "Index"
+            ]
+        },
+        {
+            "id": 28,
+            "name": "Using Arrays and ArrayLists",
+            "unit": "", 
+            "outcomes": [
+                {
+                    "title": "Simple array example",
+                    "plan": "students try and extend the code, ask questions",
+                    "note": "",
+                    "expectation": "",
+                    "resource": "arrays code",
+                    "link": "http://www1.ucc.on.ca/GEO/MrHoel/2015/ics4u/content/array/array.txt",
+                    "evidence": "",
+                    "assessment": ""
+                },
+                {
+                    "title": "Simple ArrayList example",
+                    "plan": "students try and extend the code, ask questions",
+                    "note": "",
+                    "expectation": "",
+                    "resource": "arrays code",
+                    "link": "https://drive.google.com/file/d/0B-67aGL87ij3cmgxRlBxQkU5MTg/view?usp=sharing",
+                    "evidence": "",
+                    "assessment": ""
+                },
+                {
+                    "title": "Multiple dimensional arrays",
+                    "plan": "students try and extend the code, try to complete the challenge, teacher one on one help",
+                    "note": "",
+                    "expectation": "",
+                    "resource": "tutorial",
+                    "link": "https://docs.google.com/document/d/19bAKoNjy1T5mZGT53KdQJ4KGCVb-g_mRkr-djEFW9cw/edit?usp=sharing",
+                    "evidence": "",
+                    "assessment": ""
+                }
+            ],
+            "vocabulary": [
+                "Multiple dimensional arrays", "Scanner class", "Split", "Nested loops"
+            ]
+        },
+        {
+            "id": 29,
+            "name": "Common search algorithms: Comparing Sequential and Binary Search algorithms",
+            "unit": "",
+            "outcomes": [
+                {
+                    "title": "Common algorithms in computer science",
+                    "plan": "students watch video",
+                    "note": "",
+                    "resource": "",
+                    "link": "https://www.khanacademy.org/computing/computer-science/algorithms/intro-to-algorithms/v/what-are-algorithms",
+                    "evidence": "",
+                    "assessment": ""
+                },
+                {
+                    "title": "Big O notation: A common way to analyse algorithm efficiency (time to run, space in memory)",
+                    "plan": "teacher intro to big O showing graphs and notation for algorithms",
+                    "note": "",
+                    "resource": "Big O cheat sheet",
+                    "link": "http://bigocheatsheet.com/",
+                    "evidence": "",
+                    "assessment": ""
+                },
+                {
+                    "title": "Sequential (linear) search algorithm",
+                    "plan": "students download, get working and prepare for Q/A discussion",
+                    "note": "",
+                    "resource": "Linear.java",
+                    "link": "https://drive.google.com/a/ucc.on.ca/file/d/0B-67aGL87ij3QzJiVV85ajY5cjA/view?usp=sharing",
+                    "evidence": "",
+                    "assessment": ""
+                },
+                {
+                    "title": "Binary search algorithm",
+                    "plan": "students download, get working and prepare for Q/A discussion",
+                    "note": "",
+                    "resource": "Binary.java",
+                    "link": "https://drive.google.com/a/ucc.on.ca/file/d/0B-67aGL87ij3UmQ3OUNsRlJtbWs/view?usp=sharing",
+                    "evidence": "",
+                    "assessment": ""
+                },
+                {
+                    "title": "Which algorithm is more time efficient?",
+                    "plan": "students run algorithms, what are your observations?",
+                    "note": "",
+                    "resource": "",
+                    "link": "",
+                    "evidence": "",
+                    "assessment": ""
+                },
+                {
+                    "title": "Sequential (linear) vs. Binary Search using text",
+                    "plan": "students download, get working and prepare for Q/A discussion",
+                    "note": "",
+                    "resource": "searchtest",
+                    "link": "https://drive.google.com/file/d/0B-67aGL87ij3MnFFanA3TERBdFk/view?usp=sharing",
+                    "evidence": "",
+                    "assessment": ""
+                },
+                {
+                    "title": "Calculating Big O notation and graphs for sequential and binary search",
+                    "plan": "sequential time increases linearly with more data O(n), and binary increases logrithmically O(log n), let's put this to the test!",
+                    "note": "",
+                    "resource": "Data and graphs for sequential and binary search algorithm",
+                    "link": "https://drive.google.com/open?id=10FsBB5h4TbwMmTlGB6xjr3rPHZadymD3_6WgZxUhJh0",
+                    "evidence": "",
+                    "assessment": ""
+                }
+            ],
+            "vocabulary": [
+                "algorithm",
+                "big O notation",
+                "sequential search",
+                "binary search",
+                "linear",
+                "logrithmic"
+            ]
+        },
+        {
+            "id": 30,
+            "name": "Common sorting algorithms",
+            "unit": "", 
+            "outcomes": [
+                {
+                    "title": "What is a sorting algorithm and compare bubble and merge sort?",
+                    "plan": "students watch video for an introduction to sorting and algorithms",
+                    "note": "",
+                    "expectation": "",
+                    "resource": "sorting algorithms",
+                    "link": "https://www.youtube.com/watch?v=kgBjXUE_Nwc",
+                    "evidence": "",
+                    "assessment": ""
+                },
+                {
+                    "title": "Compare algorithms given different data",
+                    "plan": "students complete worksheet and use it as your notes for your Exit Ticket",
+                    "note": "",
+                    "expectation": "",
+                    "resource": "",
+                    "link": "https://docs.google.com/document/d/1TWyOZZtMvr8mf-G8rGoFPtdjiXFfMuoAPq6PGM5ec1A/edit?usp=sharing",
+                    "evidence": "",
+                    "assessment": ""
+                }
+            ],
+            "vocabulary": [
+                "Insertion sort", "Bubble sort", "Merge sort", "Selection sort", "Quick sort"
+            ]
+        },
+        {
+            "id": 31,
+            "name": "Solving problems algorithmically: Coding Bat",
+            "unit": "", 
+            "outcomes": [
+                {
+                    "title": "Coding Bat 1# for Java",
+                    "plan": "teacher introduce problem and solve it",
+                    "note": "",
+                    "expectation": "",
+                    "resource": "coding bat",
+                    "link": "http://codingbat.com/",
+                    "evidence": "",
+                    "assessment": ""
+                },
+                {
+                    "title": "Complete Java warm up and try some harder ones (especially strings)",
+                    "plan": "",
+                    "note": "",
+                    "expectation": "",
+                    "resource": "",
+                    "link": "",
+                    "evidence": "",
+                    "assessment": ""
+                }
+            ],
+            "vocabulary": [
+                ""
+            ]
+        },
+        {
+            "id": 31,
+            "name": "OOP wrapper and user input for codingbat problems",
+            "unit": "", 
+            "outcomes": [
+                {
+                    "title": "Code wrapper for codingbat problems",
+                    "plan": "students make a copy of document, complete tasks,questions and use as their notes for EXIT TICKET",
+                    "note": "",
+                    "expectation": "",
+                    "resource": "wrapping up codingbat",
+                    "link": "https://docs.google.com/document/d/1qCuEZTuBgSTkDjlqChxycOVr_x4THn865qVgrVQrGP8/edit?usp=sharing",
+                    "evidence": "",
+                    "assessment": ""
+                }
+            ],
+            "vocabulary": [
+                "Static", "Standard in"
+            ]
+        },
+        {
+            "id": 32,
+            "name": "Getting user input and solving codingbat array problems",
+            "unit": "", 
+            "outcomes": [
+                {
+                    "title": "Getting user input for an array and using modulus",
+                    "plan": "students make a copy of document, complete tasks,questions and use as their notes for EXIT TICKET",
+                    "note": "",
+                    "expectation": "",
+                    "resource": "arrays codingbat",
+                    "link": "https://docs.google.com/document/d/10TTlvRwJ0Q_-w2KnAoCSAHzcpzqLYWAIFkR6zncUCNg/edit?usp=sharing",
+                    "evidence": "",
+                    "assessment": ""
+                }
+            ],
+            "vocabulary": [
+                "Static", "Standard in"
+            ]
+        },
+        {
+            "id": 33,
+            "name": "Solving problems algorithmically: The CCC",
+            "unit": "", 
+            "outcomes": [
+                {
+                    "title": "What is the CCC?",
+                    "plan": "teacher intro, students find web page, write blurb and add website to notes",
+                    "note": "Feb. 22, 2017 at UCC 8:30-12am",
+                    "expectation": "",
+                    "resource": "",
+                    "link": "",
+                    "evidence": "",
+                    "assessment": ""
+                },
+                {
+                    "title": "CCC Junior 2014 1#: Triangle times",
+                    "plan": "teacher introduce problem and solve it, students take notes",
+                    "note": "",
+                    "expectation": "",
+                    "resource": "junior 2014",
+                    "link": "http://cemc.uwaterloo.ca/contests/computing/2014/stage%201/juniorEn.pdf",
+                    "evidence": "",
+                    "assessment": ""
+                },
+                {
+                    "title": "Triangle times code",
+                    "plan": "",
+                    "note": "",
+                    "expectation": "",
+                    "resource": "code for triangle times",
+                    "link": "https://drive.google.com/open?id=0B-67aGL87ij3cnZObWQxOHJYaVE",
+                    "evidence": "",
+                    "assessment": ""
+                } 
+            ],
+            "vocabulary": [
+                ""
+            ]
+        },
+        {
+            "id": -99,
+            "name": "Genius hour (algorithms and problem solving)",
+            "unit": "", 
+            "outcomes": [
+                {
+                    "title": "Prep for algorithm test",
+                    "plan": "",
+                    "note": "",
+                    "expectation": "",
+                    "resource": "rubric",
+                    "link": "https://docs.google.com/document/d/1Yf96R6XuhShaKry609mZZITTSUaTGVz2sfSuFmDUBTA/edit?usp=sharing",
+                    "evidence": "",
+                    "assessment": ""
+                }
+            ],
+            "vocabulary": [
+                ""
+            ]
+        },
+        {
+            "id": 35,
+            "name": "Test (Assessment of learning)",
+            "unit": "", 
+            "outcomes": [
+                {
+                    "title": "Format, topics and rubric",
+                    "plan": "",
+                    "note": "",
+                    "expectation": "",
+                    "resource": "rubric",
+                    "link": "https://docs.google.com/document/d/1Yf96R6XuhShaKry609mZZITTSUaTGVz2sfSuFmDUBTA/edit?usp=sharing",
+                    "evidence": "",
+                    "assessment": ""
+                }
+            ],
+            "vocabulary": [
+                ""
+            ]
+        },
+        {
+            "id": 36,
+            "name": "Introduction to related fields: Bio-informatics",
+            "unit": "", 
+            "outcomes": [
+                {
+                    "title": "Bioinformatics work sheet",
+                    "plan": "students make a copy and complete",
+                    "note": "",
+                    "expectation": "",
+                    "resource": "bioinformatics worksheet",
+                    "link": "https://docs.google.com/document/d/1LWjyXF2gJM6F32e00eznYwXPddlOlEjxgKN14tw8tm8/edit?usp=sharing",
+                    "evidence": "",
+                    "assessment": ""
+                },
+                {
+                    "title": "DNA double helix data for salmonella bacteria (test data)",
+                    "plan": "students download data, read it into a program, search for 'TTATT'",
+                    "note": "",
+                    "expectation": "",
+                    "resource": "Test data",
+                    "link": "http://www1.ucc.on.ca/GEO/MrHoel/2015/ics4u/content/biology/NC_test_sm.txt",
+                    "evidence": "",
+                    "assessment": ""
+                }
+            ],
+            "vocabulary": [
+                "Bioinformatics", "Bioethics", "human genome", "23andme", "Digital medical records","Designer drugs", "Designer kids", "GMOs", "CRISPR"
+            ]
+        },
+        {
+            "id": 37,
+            "name": "Algorithm for DNA sequencing (Assessment of Learning - optional 2.5%)",
+            "unit": "", 
+            "outcomes": [
+                {
+                    "title": "DNA reverse complementing project",
+                    "plan": "students read and try to complete",
+                    "note": "",
+                    "expectation": "",
+                    "resource": "",
+                    "link": "http://www1.ucc.on.ca/GEO/MrHoel/2015/ics4u/content/biology/task.pdf",
+                    "evidence": "",
+                    "assessment": ""
+                }, 
+                {
+                    "title": "Example Python code",
+                    "plan": "",
+                    "note": "",
+                    "expectation": "",
+                    "resource": "Test data",
+                    "link": "http://www1.ucc.on.ca/GEO/MrHoel/2015/ics4u/content/biology/revcomp.txt",
+                    "evidence": "",
+                    "assessment": ""
+                },
+                {
+                    "title": "DNA double helix data for salmonella bacteria (test data)",
+                    "plan": "students download data",
+                    "note": "",
+                    "expectation": "",
+                    "resource": "Test data",
+                    "link": "http://www1.ucc.on.ca/GEO/MrHoel/2015/ics4u/content/biology/NC_test_sm.txt",
+                    "evidence": "",
+                    "assessment": ""
+                },
+                {
+                    "title": "DNA double helix data for salmonella bacteria ",
+                    "plan": "students download data",
+                    "note": "",
+                    "expectation": "",
+                    "resource": "Big data",
+                    "link": "http://www1.ucc.on.ca/GEO/MrHoel/2015/ics4u/content/biology/NC_test.txt",
+                    "evidence": "",
+                    "assessment": ""
+                },
+                {
+                    "title": "Check your Reverse Complementing solution",
+                    "plan": "students can check to see if their algorithm is working using this app",
+                    "note": "",
+                    "expectation": "",
+                    "resource": "Reverse Complementor",
+                    "link": "http://arep.med.harvard.edu/labgc/adnan/projects/Utilities/revcomp.html",
+                    "evidence": "",
+                    "assessment": ""
+                }
+            ],
+            "vocabulary": [
+                "Reverse Complement", "DNA"
+            ]
+        },
+        {
+            "id": 38,
+            "name": "Software Development Life Cycle (SDLC)",
+            "unit": "PROJECT MANAGEMENT", 
+            "outcomes": [
+                {
+                    "title": "The SDLC: Waterfall model vs Agile Scrum",
+                    "plan": "students make a copy of the document, complete and use as Exit Ticket notes",
+                    "note": "",
+                    "expectation": "",
+                    "resource": "SDLC worksheet",
+                    "link": "https://docs.google.com/document/d/1B3WgHzesN8Rng_mlc2MO7N1tUoS-Doriz96axRJGfjQ/edit?usp=sharing",
+                    "evidence": "",
+                    "assessment": ""
+                },
+                {
+                    "title": "Applying Agile Scrum to the family :-)",
+                    "plan": "students watch video and improve notes",
+                    "note": "",
+                    "expectation": "",
+                    "resource": "Agile TedX",
+                    "link": "http://www.ted.com/talks/bruce_feiler_agile_programming_for_your_family",
+                    "evidence": "",
+                    "assessment": ""
+                }
+            ],
+            "vocabulary": [
+                "SDLC", "Waterfall", "Agile", "Interative development", "Scrum", "Scrum master", "Sprint", "Sprint backlog", "Stand up meeting", "Burndown chart", "Sprint review", "Artifacts", "Ceremonies"
+            ]
+        },
+        {
+            "id": 39,
+            "name": "The Holy Trinity of the Web",
+            "unit": "", 
+            "outcomes": [
+                {
+                    "title": "HTML, CSS and JavaScript",
+                    "plan": "students make a copy of the document, complete and use as Exit Ticket notes",
+                    "note": "",
+                    "expectation": "",
+                    "resource": "web programming worksheet",
+                    "link": "https://docs.google.com/document/d/1eS-Swj9K0tm7Fug17eaoz_ifBzWusMndz9K3wpP9UKE/edit?usp=sharing",
+                    "evidence": "",
+                    "assessment": ""
+                }
+            ],
+            "vocabulary": [
+                "HTML","CSS","Javascript","Tags", "End tags", "style", "script"
+            ]
+        },
+        {
+            "id": 40,
+            "name": "Genius hour: Game making using HTML, CSS and Javascript",
+            "unit": "", 
+            "outcomes": [
+                {
+                    "title": "students learn Javascript by enhancing the basic game",
+                    "plan": "",
+                    "note": "",
+                    "expectation": "",
+                    "resource": "basic game",
+                    "link": "http://www1.ucc.on.ca/GEO/MrHoel/2015/ics4u/content/javascript/index.html",
+                    "evidence": "",
+                    "assessment": ""
+                }
+            ],
+            "vocabulary": [
+                ""
+            ]
+        },
+        {
+            "id": 41,
+            "name": "Team programming: Agile sprint planning meeting (user stories for sprint backlog)",
+            "unit": "", 
+            "outcomes": [
+                {
+                    "title": "Form teams and scrum master set up Github organization, with base code",
+                    "plan": "",
+                    "note": "",
+                    "expectation": "",
+                    "resource": "github organization",
+                    "link": "https://drive.google.com/open?id=0B-67aGL87ij3NzQyX3Z6SENwZWc",
+                    "evidence": "",
+                    "assessment": ""
+                },
+                {
+                    "title": "Create Github team roles (product owner, scrum master, programmers, etc.)",
+                    "plan": "Assign and implement team roles on Github with appropriate permissions",
+                    "note": "",
+                    "expectation": "",
+                    "resource": "",
+                    "link": "",
+                    "evidence": "",
+                    "assessment": ""
+                },
+                {
+                    "title": "What kind of game can I make?",
+                    "plan": "teacher demo and students play with game and view code",
+                    "note": "",
+                    "expectation": "",
+                    "resource": "javascript game",
+                    "link": "http://www1.ucc.on.ca/GEO/MrHoel/2015/ics4u/content/javascript/index2.html",
+                    "evidence": "",
+                    "assessment": ""
+                },
+                {
+                    "title": "Use repo Github wiki to brainstorm product sprint backlog (user stories)",
+                    "plan": "students create and populate wiki with properly formatted user stories - prioritize",
+                    "note": "",
+                    "expectation": "",
+                    "resource": "wiki",
+                    "link": "https://drive.google.com/file/d/0B-67aGL87ij3MUdxNVVWQWpYOWs/view?usp=sharing",
+                    "evidence": "",
+                    "assessment": ""
+                },
+                {
+                    "title": "Add photo of your sprint planning meeting to wiki",
+                    "plan": "Ask another organization member to take and send to scrum-master",
+                    "note": "",
+                    "expectation": "",
+                    "resource": "great group",
+                    "link": "https://drive.google.com/file/d/0B-67aGL87ij3LXdUVWpFZEtVT28/view?usp=sharing",
+                    "evidence": "",
+                    "assessment": ""
+                },
+                {
+                    "title": "Looking forward to next class: your first Scrum",
+                    "plan": "",
+                    "note": "",
+                    "expectation": "",
+                    "resource": "stand up meeting",
+                    "link": "https://drive.google.com/file/d/0B-67aGL87ij3ZTB3ZTFWdjRuUzQ/view?usp=sharing",
+                    "evidence": "",
+                    "assessment": ""
+                },
+                {
+                    "title": "Looking forward to next class: be equitable when assigning tasks",
+                    "plan": "",
+                    "note": "",
+                    "expectation": "",
+                    "resource": "assigning tasks",
+                    "link": "https://drive.google.com/file/d/0B-67aGL87ij3M3hiZktFNnd5djA/view?usp=sharing",
+                    "evidence": "",
+                    "assessment": ""
+                },
+                {
+                    "title": "Sprint Review and Retrospective Checklist (Assessment for Learning)",
+                    "plan": "teacher show checklist, students use it as a guide",
+                    "note": "",
+                    "expectation": "",
+                    "resource": "check list for sprint review/retro",
+                    "link": "https://docs.google.com/document/d/1XVG74wAXtnjX0adwGvRm8XLA4E-8XV3ugBIHzpu0hOk/edit?usp=sharing",
+                    "evidence": "",
+                    "assessment": ""
+                }
+                
+                
+            ],
+            "vocabulary": [
+                ""
+            ]
+        },
+        {
+            "id": 42,
+            "name": "Team programming: First Agile scrum",
+            "unit": "", 
+            "outcomes": [
+                {
+                    "title": "Standup (burndown,jobs,goals)",
+                    "plan": "scrum master complete new wiki entry with photo and reflection",
+                    "note": "",
+                    "expectation": "",
+                    "resource": "stand up",
+                    "link": "https://drive.google.com/file/d/0B-67aGL87ij3TlNsWEUwRl9mUXM/view?usp=sharing",
+                    "evidence": "",
+                    "assessment": ""
+                },
+                {
+                    "title": "Code",
+                    "plan": "",
+                    "note": "",
+                    "expectation": "",
+                    "resource": "",
+                    "link": "",
+                    "evidence": "",
+                    "assessment": ""
+                },
+                {
+                    "title": "Test",
+                    "plan": "",
+                    "note": "",
+                    "expectation": "",
+                    "resource": "",
+                    "link": "",
+                    "evidence": "",
+                    "assessment": ""
+                },
+                {
+                    "title": "Wrap-up, commit edited and working code to github",
+                    "plan": "",
+                    "note": "",
+                    "expectation": "",
+                    "resource": "",
+                    "link": "",
+                    "evidence": "",
+                    "assessment": ""
+                }
+            ],
+            "vocabulary": [
+                "", ""
+            ]
+        },
+        {
+            "id": -99,
+            "name": "Team programming: 2nd Agile Scrum",
+            "unit": "", 
+            "outcomes": [
+                {
+                    "title": "Standup (burndown,jobs,goals)",
+                    "plan": "",
+                    "note": "",
+                    "expectation": "",
+                    "resource": "",
+                    "link": "",
+                    "evidence": "",
+                    "assessment": ""
+                },
+                {
+                    "title": "Code",
+                    "plan": "",
+                    "note": "",
+                    "expectation": "",
+                    "resource": "",
+                    "link": "",
+                    "evidence": "",
+                    "assessment": ""
+                },
+                {
+                    "title": "Test",
+                    "plan": "",
+                    "note": "",
+                    "expectation": "",
+                    "resource": "",
+                    "link": "",
+                    "evidence": "",
+                    "assessment": ""
+                },
+                {
+                    "title": "Wrap-up, commit edited and working code to github",
+                    "plan": "",
+                    "note": "",
+                    "expectation": "",
+                    "resource": "",
+                    "link": "",
+                    "evidence": "",
+                    "assessment": ""
+                }
+            ],
+            "vocabulary": [
+                ""
+            ]
+        },
+        {
+            "id": 44,
+            "name": "Team programming: Sprint review and retrospective - group demos",
+            "unit": "", 
+            "outcomes": [
+                {
+                    "title": "Impressive work!",
+                    "plan": "students show off their products or talk about progress",
+                    "note": "",
+                    "expectation": "",
+                    "resource": "Awesome work!",
+                    "link": "https://docs.google.com/presentation/d/1ix2bVe_7ga7_J3NctJiRHBNEmLAyYkBilaLYGrKykt8/edit?usp=sharing",
+                    "evidence": "",
+                    "assessment": ""
+                },
+                {
+                    "title": "Group dynamics and development process - what worked, what didn't?",
+                    "plan": "students show off Github site and talk briefly about how group work went",
+                    "note": "",
+                    "expectation": "",
+                    "resource": "",
+                    "link": "",
+                    "evidence": "",
+                    "assessment": ""
+                }
+            ],
+            "vocabulary": [
+                ""
+            ]
+        },
+        {
+            "id": 45,
+            "name": "Test (Assessment of learning)",
+            "unit": "", 
+            "outcomes": [
+                {
+                    "title": "topics, format and review",
+                    "plan": "",
+                    "note": "",
+                    "expectation": "",
+                    "resource": "review doc",
+                    "link": "https://docs.google.com/document/d/1SNmX6bhpJ8HuVdG100di_FHJVrCMSCNcx_eehWHwZtU/edit?usp=sharing",
+                    "evidence": "",
+                    "assessment": ""
+                }
+            ],
+            "vocabulary": [
+                ""
+            ]
+        },
+        {
+            "id": 46,
+            "name": "Introducing client server and 'cloud' computing",
+            "unit": "WEB BASED APPLICATIONS ", 
+            "outcomes": [
+                {
+                    "title": "How does Facebook work - client-server architecture",
+                    "plan": "teacher show diagram and students re-create, Photobooth and put in notes with vocab",
+                    "note": "",
+                    "expectation": "",
+                    "resource": "client server diagram",
+                    "link": "https://docs.google.com/drawings/d/1guWkWRR_7RHHEGR2my1ijf3CIDt2bmTTPLnK959Mjuw/edit?usp=sharing",
+                    "evidence": "",
+                    "assessment": ""
+                },
+                {
+                    "title": "Inside a Google Data Centre",
+                    "plan": "students watch video, get some facts for notes and then discuss",
+                    "note": "",
+                    "expectation": "",
+                    "resource": "Google Data Centre",
+                    "link": "https://www.youtube.com/watch?v=XZmGGAbHqa0",
+                    "evidence": "",
+                    "assessment": ""
+                }
+            ],
+            "vocabulary": [
+                "Client-Server computing", "Data Centre", "Cloud", "PHP server side scripting", "MySQL database server", "Apache web server", "HTTP"]
+        },
+        {
+            "id": 47,
+            "name": "Install MAMP and PHP hello world",
+            "unit": "", 
+            "outcomes": [
+                {
+                    "title": "How do I set up a client server test environment on my Mac and run a PHP script?",
+                    "plan": "students make a copy of document and complete",
+                    "note": "",
+                    "expectation": "",
+                    "resource": "set up MAMP and run PHP hellp world",
+                    "link": "https://docs.google.com/document/d/1vFuPWMnhbAqKVM_9uYMS5lGVPAIp_Wllm2tuitq4qgE/edit?usp=sharing",
+                    "evidence": "",
+                    "assessment": ""
+                }
+            ],
+            "vocabulary": [
+                "MAMP", "LAMP", "WAMP", "XAMPP", "htdocs", "localhost:8888"
+            ]
+        },
+        {
+            "id": 48,
+            "name": "Programming constructs using PHP",
+            "unit": "", 
+            "outcomes": [
+                {
+                    "title": "Basic SSRGMIO PHP code",
+                    "plan": "teacher shows that PHP is SSRGMIO compliant and gives some example code, students get it working",
+                    "note": "call file ssrgmio.php and save in Applications/MAMP/htdocs",
+                    "expectation": "",
+                    "resource": "ssrgmio code",
+                    "link": "http://www1.ucc.on.ca/GEO/MrHoel/2015/ics4u/content/php/helloworld.txt",
+                    "evidence": "",
+                    "assessment": ""
+                },
+                {
+                    "title": "Students start learning PHP on their own",
+                    "plan": "students try out tutorials and take screenshots for their notes - Exit Ticket",
+                    "note": "",
+                    "expectation": "",
+                    "resource": "W3 tutorials",
+                    "link": "http://www.w3schools.com/php/default.asp",
+                    "evidence": "",
+                    "assessment": ""
+                }
+            ],
+            "vocabulary": [
+                ""
+            ]
+        },
+        {
+            "id": -99,
+            "name": "Java vs PHP",
+            "unit": "", 
+            "outcomes": [
+                {
+                    "title": "What are the main differences between PHP and Java?",
+                    "plan": "students copy document and complete for Exit Ticket",
+                    "note": "",
+                    "expectation": "",
+                    "resource": "Differences",
+                    "link": "https://docs.google.com/document/d/1uOgNRqzjDOmod1nPEr19WGLAAuRYdRrYhD1g4McrSiw/edit?usp=sharing",
+                    "evidence": "",
+                    "assessment": ""
+                },
+                {
+                    "title": "Students complete as many tutorials as possible",
+                    "plan": "students try out tutorials - make a list of the tutorials you have completed",
+                    "note": "",
+                    "expectation": "",
+                    "resource": "W3 Schools",
+                    "link": "http://www.w3schools.com/php/default.asp",
+                    "evidence": "",
+                    "assessment": ""
+                },
+                {
+                    "title": "Complete PHP quiz",
+                    "plan": "complete the PHP quiz, screen shot results for notes",
+                    "note": "",
+                    "expectation": "",
+                    "resource": "",
+                    "link": "http://www.w3schools.com/php/php_quiz.asp",
+                    "evidence": "",
+                    "assessment": ""
+                }
+            ],
+            "vocabulary": [
+                ""
+            ]
+        },
+        {
+            "id": 50,
+            "name": "Accessing DBMS from PHP",
+            "unit": "", 
+            "outcomes": [
+                {
+                    "title": "What is a DBMS and SQL?",
+                    "plan": "students watch video and take notes",
+                    "note": "MySQL is named after developer Michael Widenius' daughter, My. The SQL phrase stands for Structured Query Language. SQL allows administrators and users to access, query and manipulate database tables.",
+                    "expectation": "",
+                    "resource": "DBMS tutorial",
+                    "link": "https://www.youtube.com/watch?v=FR4QIeZaPeM",
+                    "evidence": "",
+                    "assessment": ""
+                },
+                {
+                    "title": "MySQL demo using phpMyAdmin",
+                    "plan": "teacher lead students through creating database, a table and basic SQL",
+                    "note": "",
+                    "expectation": "",
+                    "resource": "phpMyAdmin tutorial",
+                    "link": "https://www.youtube.com/watch?v=5nOjjo7JUyY",
+                    "evidence": "",
+                    "assessment": ""
+                },
+                                {
+                    "title": "SQL to create testdb and symbols table and rows",
+                    "plan": "this sql code actually works :-)",
+                    "note": "",
+                    "expectation": "",
+                    "resource": "devzone 8 - working sql to create db and table",
+                    "link": "https://drive.google.com/file/d/0B-67aGL87ij3N3BQMDdOQjVzUkU/view?usp=sharing",
+                    "evidence": "",
+                    "assessment": ""
+                },
+                {
+                    "title": "PHP 7.0.0 code ",
+                    "plan": "students get code working and check database to see updates",
+                    "note": "",
+                    "expectation": "",
+                    "resource": "code",
+                    "link": "https://docs.google.com/document/d/1Y-vFMbjX0VtrVhEo3WocQfQSEqEsMDCGSMpYLq9uXpw/edit?usp=sharing",
+                    "evidence": "",
+                    "assessment": ""
+                }
+            ],
+            "vocabulary": [
+                "DBMS", "SQL"
+            ]
+        },
+        {
+            "id": 51,
+            "name": "Bootstrap a PHP database front end and make it beautiful",
+            "unit": "", 
+            "outcomes": [
+                {
+                    "title": "SQL to create testdb and symbols table and rows",
+                    "plan": "this sql code actually works :-)",
+                    "note": "",
+                    "expectation": "",
+                    "resource": "sql to create db and table",
+                    "link": "https://drive.google.com/file/d/0B-67aGL87ij3N3BQMDdOQjVzUkU/view?usp=sharing",
+                    "evidence": "",
+                    "assessment": ""
+                },
+                {
+                    "title": "Students get the PHP code working and explore",
+                    "plan": "",
+                    "note": "",
+                    "expectation": "",
+                    "resource": "database editing code v7.0.0",
+                    "link": "https://docs.google.com/document/d/1drajC750J6oXbq2oObseKnAOJ8XxEKELd_NNjEpa8oo/edit?usp=sharing",
+                    "evidence": "",
+                    "assessment": ""
+                },
+                {
+                    "title": "Students bootstrap the code",
+                    "plan": "",
+                    "note": "",
+                    "expectation": "",
+                    "resource": "Getting started",
+                    "link": "http://getbootstrap.com/getting-started/",
+                    "evidence": "",
+                    "assessment": ""
+                }
+            ],
+            "vocabulary": [
+                "Bootstrap", "CSS framework"
+            ]
+        },
+        {
+            "id": 52,
+            "name": "SQL: Introduction to Structured Query Language",
+            "unit": "", 
+            "outcomes": [
+                {
+                    "title": "SQL Basics",
+                    "plan": "students review SQL tutorials on W3 schools",
+                    "note": "",
+                    "expectation": "",
+                    "resource": "SQL tutorials",
+                    "link": "https://www.w3schools.com/sql/default.asp",
+                    "evidence": "",
+                    "assessment": ""
+                },
+                {
+                    "title": "QUIZ",
+                    "plan": "students complete the quiz and show teacher grade",
+                    "note": "",
+                    "expectation": "",
+                    "resource": "SQL quiz",
+                    "link": "https://www.w3schools.com/quiztest/quiztest.asp?qtest=SQL",
+                    "evidence": "",
+                    "assessment": ""
+                }
+            ],
+            "vocabulary": [
+                "SQL", "SELECT", "WHERE", "INSERT", "DELETE", "DROP"
+            ]
+        },
+        {
+            "id": 53,
+            "name": "Team Programming: Reverse engineer and improve a working PHP app (Assessment of Learning)",
+            "unit": "", 
+            "outcomes": [
+                {
+                    "title": "Set up database",
+                    "plan": "Create a database called testdb using PHPMYADMIN and then run provided SQL",
+                    "note": "",
+                    "expectation": "",
+                    "resource": "SQL",
+                    "link": "https://drive.google.com/open?id=1thM16iMnIIlmBcUqjC9r3cRdU3o43Yn06qUqlA7KJGM",
+                    "evidence": "",
+                    "assessment": ""
+                },
+                {
+                    "title": "Get app working",
+                    "plan": "Download, uncompress in correct folder, view login.php, register and edit",
+                    "note": "updated for PHP 7.0.0",
+                    "expectation": "",
+                    "resource": "zip file",
+                    "link": "https://drive.google.com/file/d/0B-67aGL87ij3c2RtS0JvWUtDR3c/view?usp=sharing",
+                    "evidence": "",
+                    "assessment": ""
+                },
+                {
+                    "title": "How will I be evaluated?",
+                    "plan": "",
+                    "note": "",
+                    "expectation": "",
+                    "resource": "rubric",
+                    "link": "https://docs.google.com/a/ucc.on.ca/forms/d/e/1FAIpQLScQEkKkgPTSrsyPxRpUI3nWRDBOtoLWIocVVh2kWbxEprlYiw/viewform",
+                    "evidence": "",
+                    "assessment": ""
+                },
+                {
+                    "title": "Team formation - partners (2)",
+                    "plan": "",
+                    "note": "",
+                    "expectation": "",
+                    "resource": "",
+                    "link": "",
+                    "evidence": "",
+                    "assessment": ""
+                }
+            ],
+            "vocabulary": [
+                ""
+            ]
+        },
+        {
+            "id": -99,
+            "name": "Team programming: Github and assignments",
+            "unit": "", 
+            "outcomes": [
+                {
+                    "title": "Group work",
+                    "plan": "",
+                    "note": "",
+                    "expectation": "",
+                    "resource": "",
+                    "link": "",
+                    "evidence": "",
+                    "assessment": ""
+                }
+            ],
+            "vocabulary": [
+                ""
+            ]
+        },
+        {
+            "id": -99,
+            "name": "Team programming: work period",
+            "unit": "", 
+            "outcomes": [
+                {
+                    "title": "",
+                    "plan": "",
+                    "note": "",
+                    "expectation": "",
+                    "resource": "",
+                    "link": "",
+                    "evidence": "",
+                    "assessment": ""
+                },
+                {
+                    "title": "",
+                    "plan": "",
+                    "note": "",
+                    "expectation": "",
+                    "resource": "",
+                    "link": "",
+                    "evidence": "",
+                    "assessment": ""
+                }
+            ],
+            "vocabulary": [
+                ""
+            ]
+        },
+        {
+            "id": -99,
+            "name": "Team programming: work period",
+            "unit": "", 
+            "outcomes": [
+                {
+                    "title": "",
+                    "plan": "",
+                    "note": "",
+                    "expectation": "",
+                    "resource": "",
+                    "link": "",
+                    "evidence": "",
+                    "assessment": ""
+                },
+                {
+                    "title": "",
+                    "plan": "",
+                    "note": "",
+                    "expectation": "",
+                    "resource": "",
+                    "link": "",
+                    "evidence": "",
+                    "assessment": ""
+                }
+            ],
+            "vocabulary": [
+                ""
+            ]
+        },
+        {
+            "id": -99,
+            "name": "Team programming: work period",
+            "unit": "", 
+            "outcomes": [
+                {
+                    "title": "",
+                    "plan": "",
+                    "note": "",
+                    "expectation": "",
+                    "resource": "",
+                    "link": "",
+                    "evidence": "",
+                    "assessment": ""
+                },
+                {
+                    "title": "",
+                    "plan": "",
+                    "note": "",
+                    "expectation": "",
+                    "resource": "",
+                    "link": "",
+                    "evidence": "",
+                    "assessment": ""
+                }
+            ],
+            "vocabulary": [
+                ""
+            ]
+        },
+        {
+            "id": -99,
+            "name": "Team programming: work period",
+            "unit": "", 
+            "outcomes": [
+                {
+                    "title": "",
+                    "plan": "",
+                    "note": "",
+                    "expectation": "",
+                    "resource": "",
+                    "link": "",
+                    "evidence": "",
+                    "assessment": ""
+                },
+                {
+                    "title": "",
+                    "plan": "",
+                    "note": "",
+                    "expectation": "",
+                    "resource": "",
+                    "link": "",
+                    "evidence": "",
+                    "assessment": ""
+                }
+            ],
+            "vocabulary": [
+                ""
+            ]
+        },
+        {
+            "id": -99,
+            "name": "Team programming: Presentations",
+            "unit": "", 
+            "outcomes": [
+                {
+                    "title": "",
+                    "plan": "",
+                    "note": "",
+                    "expectation": "",
+                    "resource": "",
+                    "link": "",
+                    "evidence": "",
+                    "assessment": ""
+                }
+            ],
+            "vocabulary": [
+                ""
+            ]
+        },
+        {
+            "id": 99,
+            "name": "Preparation",
+            "unit": "Final exam", 
+            "outcomes": [
+                {
+                    "title": "Topics and format",
+                    "plan": "MC (see vocab list), long answer and Algorithms",
+                    "note": "",
+                    "expectation": "",
+                    "resource": "",
+                    "link": "",
+                    "evidence": "",
+                    "assessment": ""
+                },
+                {
+                    "title": "Rules and regulations",
+                    "plan": "terminal Java compiler and JVM. No IDE or Internet. Only terminal open, and only .java files may be viewed.",
+                    "note": "RULES: You may use a command line text editor (vi editor) and Java compiler to test your code. ONLY a terminal window may be open and only .java files may be edited during this test. Write out your solutions legibly in the space provided below each problem.",
+                    "expectation": "",
+                    "resource": "",
+                    "link": "",
+                    "evidence": "",
+                    "assessment": ""
+                },
+                {
+                    "title": "Support material - Java subset of helpful methods",
+                    "plan": "students will be provided with printed Java subset",
+                    "note": "",
+                    "expectation": "",
+                    "resource": "",
+                    "link": "https://docs.google.com/document/d/1HR_GsXyczkxorJQ7gcWHOkwop10TTsqH9rXwgoCdPRU/edit?usp=sharing",
+                    "evidence": "",
+                    "assessment": ""
+                },
+                {
+                    "title": "Vocab - text file",
+                    "plan": "",
+                    "note": "",
+                    "expectation": "",
+                    "resource": "vocab.txt",
+                    "link": "https://docs.google.com/document/d/15YdWy-A8o_J4ZWB7e1hg-LHjQB-LT-7HQJK2m1_ozXY/edit?usp=sharing",
+                    "evidence": "",
+                    "assessment": ""
+                }
+            ],
+            "vocabulary": [
+                ""
+            ]
+        }
+    ]
+}
