@@ -1,0 +1,1980 @@
+{
+    "lessons": [
+        {
+            "id": 0,
+            "name": "How will this course run?",
+            "unit": "UNIT 1: Introduction to Asia",
+            "outcomes": [
+                {
+                    "title": "Welcome",
+                    "plan": "Geography of Asia",
+                    "note": "",
+                    "expectation": "",
+                    "resource": "",
+                    "link": "",
+                    "evidence": "",
+                    "assessment": ""
+                },
+                {
+                    "title": "About me",
+                    "plan": "background, teaching, extra-curricular",
+                    "note": "",
+                    "expectation": "",
+                    "resource": "My profile",
+                    "link": "https://drive.google.com/file/d/0B-67aGL87ij3R1V1TnlwUURvcHc/view?usp=sharing",
+                    "evidence": "",
+                    "assessment": ""
+                },
+                {
+                    "title": "About you",
+                    "plan": "login to school gmail, visit outline, submit personal reflection and new photo (optional)",
+                    "note": "",
+                    "expectation": "",
+                    "resource": "How to change profile photo",
+                    "link": "https://docs.google.com/document/d/15Rrjl8mxiz2UUh8VV_D9V_XNcm2Pabec_LTxr2xigSg/edit?usp=sharing",
+                    "evidence": "",
+                    "assessment": ""
+                },
+                {
+                    "title": "How this course will work?",
+                    "plan": "pre-assess, teacher review it and go through outline, evaluations and expectations",
+                    "note": "",
+                    "expectation": "",
+                    "resource": "How I will be evaluated on my learning skills",
+                    "link": "https://docs.google.com/document/d/1n_MYZUzWM1SGKrainpSVNEoiqLidkD2WziQN7rbod34/edit",
+                    "evidence": "",
+                    "assessment": ""
+                },
+                {
+                    "title": "How should I take notes?",
+                    "plan": "create folder on Google Drive and share it to me, create a Google Doc inside, exit ticket",
+                    "note": "",
+                    "expectation": "",
+                    "resource": "",
+                    "link": "",
+                    "evidence": "",
+                    "assessment": ""
+                }
+            ],
+            "vocabulary": [
+                "CGD3M", "Dashboard", "Outline", "Google Notes", "Exit Ticket"
+            ]
+        },
+        {
+            "id": 1,
+            "name": "ArcGIS Online and Asia Country Data",
+            "unit": "",
+            "outcomes": [
+                {
+                    "title": "ArcGIS online",
+                    "plan": "Demo logging in to ArcGIS online (user: first.last password: pw$arcgis2016)",
+                    "note": "",
+                    "expectation": "",
+                    "resource": "ArcGIS sign in",
+                    "link": "https://www.arcgis.com/home/signin.html",
+                    "evidence": "",
+                    "assessment": ""
+                },
+                {
+                    "title": "Search and map a data layer",
+                    "plan": "Demo searching for a data layer in your organization using keyword 'country'",
+                    "note": "",
+                    "expectation": "",
+                    "resource": "How to search and add a layer",
+                    "link": "https://drive.google.com/a/ucc.on.ca/file/d/0B-67aGL87ij3TkRRU0F2aEJQMTQ/view?usp=sharing",
+                    "evidence": "",
+                    "assessment": ""
+                },
+                {
+                    "title": "Examine Asian continent and identify countries",
+                    "plan": "Use ArcGIS online tools to identify countries, view attributes and pan and zoom",
+                    "note": "",
+                    "expectation": "",
+                    "resource": "",
+                    "link": "",
+                    "evidence": "",
+                    "assessment": ""
+                },
+                {
+                    "title": "Asia Country Song",
+                    "plan": "Students listen and sing along!",
+                    "note": "",
+                    "expectation": "",
+                    "resource": "Countries of Asia song",
+                    "link": "https://www.youtube.com/watch?v=Jf5O95yKdRk",
+                    "evidence": "",
+                    "assessment": ""
+                },
+                {
+                    "title": "Asia Country Sporcle",
+                    "plan": "Complete Sporcle for Asian countries and prepare for quiz",
+                    "note": "",
+                    "expectation": "",
+                    "resource": "Countries of Asia",
+                    "link": "http://www.sporcle.com/games/g/asia",
+                    "evidence": "",
+                    "assessment": ""
+                },
+                {
+                    "title": "Asia country quiz",
+                    "plan": "How many of the 48 countries can you identify?",
+                    "note": "",
+                    "expectation": "",
+                    "resource": "Asia quiz",
+                    "link": "https://drive.google.com/file/d/0B-67aGL87ij3V0piczNWTHNXRGM/view?usp=sharing",
+                    "evidence": "",
+                    "assessment": ""
+                }
+            ],
+            "vocabulary": [
+                "ArcGIS online", "Layer"
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Religions of Asia",
+            "unit": "",
+            "outcomes": [
+                {
+                    "title": "Symbolizing features using attributes in ArcGIS",
+                    "plan": "Teacher Demo",
+                    "note": "",
+                    "expectation": "",
+                    "resource": "",
+                    "link": "",
+                    "evidence": "",
+                    "assessment": ""
+                },
+                {
+                    "title": "ArcGIS lab: Religions of Asia",
+                    "plan": "Students complete lab and submit lab as their class notes in exit ticket",
+                    "note": "",
+                    "expectation": "",
+                    "resource": "ArcGIS lab",
+                    "link": "https://docs.google.com/a/ucc.on.ca/document/d/1nBOcrTuyRc2p5HZbq_MRJvMX2B349xnDRVtrId0xWrQ/edit?usp=sharing",
+                    "evidence": "",
+                    "assessment": ""
+                },
+                {
+                    "title": "Quiz",
+                    "plan": "Distribution of religions",
+                    "note": "",
+                    "expectation": "",
+                    "resource": "Religion quiz",
+                    "link": "https://drive.google.com/a/ucc.on.ca/file/d/0B-67aGL87ij3WG5MOHg3cDBBeG8/view?usp=sharing",
+                    "evidence": "",
+                    "assessment": ""
+                }
+            ],
+            "vocabulary": [
+                "Symbology", "Attributes", "Metadata", "Islam", "Christianity", "Buddhism", "Hinduism", "Non-religious"
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Asia Region Intelligence Brief",
+            "unit": "",
+            "outcomes": [
+                {
+                    "title": "What is a region?",
+                    "plan": "Students create a definition and examples of different regions in Asia for their notes",
+                    "note": "",
+                    "expectation": "",
+                    "resource": "Video about regions",
+                    "link": "https://www.youtube.com/watch?v=chUU-0OvOEU",
+                    "evidence": "",
+                    "assessment": ""
+                },
+                {
+                    "title": "Regions layer",
+                    "plan": "Teacher demo regions layer from ArcGIS Online",
+                    "note": "5 regions as defined by UN Geoscheme",
+                    "expectation": "",
+                    "resource": "UN Geoscheme",
+                    "link": "https://en.wikipedia.org/wiki/United_Nations_geoscheme",
+                    "evidence": "",
+                    "assessment": ""
+                },
+                {
+                    "title": "Example: Central Asia",
+                    "plan": "students brainstorm why they think this is a region",
+                    "note": "ethnicity nomadic peoples, history of silk road from Europe to China, recently much of area under domination of USSR, desert and steppe or plains",
+                    "expectation": "",
+                    "resource": "Central Asia",
+                    "link": "https://drive.google.com/open?id=0B-67aGL87ij3OXJHUmNheERQVTA",
+                    "evidence": "",
+                    "assessment": ""
+                },
+                {
+                    "title": "What is an intelligence brief?",
+                    "plan": "Students watch video and ask questions",
+                    "note": "Research analysts prepare a short ",
+                    "expectation": "",
+                    "resource": "Rachel Maddow video",
+                    "link": "https://www.youtube.com/watch?v=I8XxBhDdoME",
+                    "evidence": "",
+                    "assessment": ""
+                },
+                {
+                    "title": "Introduce Intelligence Brief example and assignment",
+                    "plan": "Students review example, ask questions and make a copy to reside in their Geography folder on Google Drive",
+                    "note": "",
+                    "expectation": "",
+                    "resource": "Brief example",
+                    "link": "https://docs.google.com/a/ucc.on.ca/document/d/1iT8HxwgrrapIp7Qzpu3UR_VCL_Ry0WJDain2WnvPWpo/edit?usp=sharing",
+                    "evidence": "",
+                    "assessment": ""
+                },
+                {
+                    "title": "Brief rubric",
+                    "plan": "Students review and submit self review and ask questions",
+                    "note": "",
+                    "expectation": "",
+                    "resource": "Rubric",
+                    "link": "https://docs.google.com/a/ucc.on.ca/forms/d/e/1FAIpQLSdyeZf8NbltxpNYWH3w9PjcwJDN-TDnh6zNbj-BDvFIO1nTMQ/viewform",
+                    "evidence": "",
+                    "assessment": ""
+                },
+                {
+                    "title": "Work period",
+                    "plan": "students research UN regions, complete attached document, and show teacher to choose one - first come ...",
+                    "note": "",
+                    "expectation": "",
+                    "resource": "outline doc to hand in",
+                    "link": "https://docs.google.com/document/d/1xPocHPaNag9o_betKOhulO-oNllRiKEAboh2H8fX0mM/edit?usp=sharing",
+                    "evidence": "",
+                    "assessment": ""
+                }
+            ],
+            "vocabulary": [
+                "Region", "Intelligence brief"
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Asia Region Intelligence Brief II",
+            "unit": "",
+            "outcomes": [
+                {
+                    "title": "How to make a map of my region?",
+                    "plan": "Teacher demo filter functionality",
+                    "note": "",
+                    "expectation": "",
+                    "resource": "",
+                    "link": "",
+                    "evidence": "",
+                    "assessment": ""
+                },
+                {
+                    "title": "How to create MLA citations easily?",
+                    "plan": "Teacher demo easybib",
+                    "note": "",
+                    "expectation": "",
+                    "resource": "Create a MLA citation",
+                    "link": "http://www.easybib.com/",
+                    "evidence": "",
+                    "assessment": ""
+                },
+                {
+                    "title": "Work period",
+                    "plan": "students work on their Google Doc",
+                    "note": "",
+                    "expectation": "",
+                    "resource": "",
+                    "link": "",
+                    "evidence": "",
+                    "assessment": ""
+                },
+                {
+                    "title": "Check-in on progress",
+                    "plan": "teacher checks-in with students and students submit Exit Ticket with link to Google Doc",
+                    "note": "",
+                    "expectation": "",
+                    "resource": "",
+                    "link": "",
+                    "evidence": "",
+                    "assessment": ""
+                }
+            ],
+            "vocabulary": [
+                ""
+            ]
+        },
+        {
+            "id": 5,
+            "name": "Asia Region Intelligence Brief III",
+            "unit": "",
+            "outcomes": [
+                {
+                    "title": "Work period",
+                    "plan": "",
+                    "note": "",
+                    "expectation": "",
+                    "resource": "",
+                    "link": "",
+                    "evidence": "",
+                    "assessment": ""
+                }
+            ],
+            "vocabulary": [
+                ""
+            ]
+        },
+        {
+            "id": 6,
+            "name": "Population Distribution Patterns",
+            "unit": "",
+            "outcomes": [
+                {
+                    "title": "What is population distribution?",
+                    "plan": "Teacher show graphic, students guess",
+                    "note": "Distribution refers to the way something is spread out or arranged over a geographic area (pattern).",
+                    "expectation": "",
+                    "resource": "Patterns",
+                    "link": "https://docs.google.com/a/ucc.on.ca/document/d/11B5kI4UNnTtWVTA0vHG-vXHLraQgRf5ax3SxTOa_4rA/edit?usp=sharing",
+                    "evidence": "",
+                    "assessment": ""
+                },
+                {
+                    "title": "Practice identifying distribution patterns",
+                    "plan": "Students download and label one of each pattern (like example). Label 2 surprises. Attach to your notes",
+                    "note": "",
+                    "expectation": "",
+                    "resource": "Chicken map",
+                    "link": "https://drive.google.com/a/ucc.on.ca/file/d/0B-67aGL87ij3MFMwV1BEdWw1RWs/view?usp=sharing",
+                    "evidence": "",
+                    "assessment": ""
+                }
+            ],
+            "vocabulary": [
+                "Distribution", "Clustered", "Linear", "Scattered", "Regular"
+            ]
+        },
+        {
+            "id": 7,
+            "name": "Countries with high and low density",
+            "unit": "",
+            "outcomes": [
+                {
+                    "title": "What is population density?",
+                    "plan": "Students find definition online and ask questions",
+                    "note": "People per square km.",
+                    "expectation": "",
+                    "resource": "",
+                    "link": "",
+                    "evidence": "",
+                    "assessment": ""
+                },
+                {
+                    "title": "What factors affect population density?",
+                    "plan": "Students review document and ask questions",
+                    "note": "Population distribution is uneven. Some areas are more dense than others. What are some factors that affect this?",
+                    "expectation": "",
+                    "resource": "Density factors",
+                    "link": "https://docs.google.com/a/ucc.on.ca/spreadsheets/d/1Zo4K2tuITBLzu4tF9mAAbpg29FiBk8jVDG36HFUSRrY/edit?usp=sharing",
+                    "evidence": "",
+                    "assessment": ""
+                },
+                {
+                    "title": "ArcGIS Online lab 2 - Population Density in Asia",
+                    "plan": "Students complete lab and submit lab as their class notes in exit ticket",
+                    "note": "",
+                    "expectation": "",
+                    "resource": "",
+                    "link": "https://docs.google.com/a/ucc.on.ca/document/d/1dVemNA6par_UXWZbsX-uLCP7LX_pPq-XkrIiMmivFVI/edit?usp=sharing",
+                    "evidence": "",
+                    "assessment": ""
+                },
+                {
+                    "title": "Quiz",
+                    "plan": "Factors that affect density and countries with high and low density",
+                    "note": "",
+                    "expectation": "",
+                    "resource": "Density quiz",
+                    "link": "https://drive.google.com/a/ucc.on.ca/file/d/0B-67aGL87ij3OVZhUDhQY3dHREk/view?usp=sharing",
+                    "evidence": "",
+                    "assessment": ""
+                }
+            ],
+            "vocabulary": [
+                "Density"
+            ]
+        },
+        {
+            "id": 8,
+            "name": "Cradles of civilization: Asia's great rivers and cities",
+            "unit": "",
+            "outcomes": [
+                {
+                    "title": "Civilization started in Asia",
+                    "plan": "Students watch video and try to understand why civilizations grow around rivers and 3 ancient Asian examples",
+                    "note": "flat, nutriant rich soil, reliable water - examples: Mesopotamia (Tigres and Euphrates), Indus valley, Yellow valley",
+                    "expectation": "",
+                    "resource": "Crash Course: Indus Valley Civilization",
+                    "link": "https://www.youtube.com/watch?v=n7ndRwqJYDM",
+                    "evidence": "",
+                    "assessment": ""
+                },
+                {
+                    "title": "Rise of the Asian Mega-city",
+                    "plan": "students click through article, taking notes ",
+                    "note": "",
+                    "expectation": "",
+                    "resource": "BBC news",
+                    "link": "http://www.bbc.co.uk/news/world-asia-pacific-13800944",
+                    "evidence": "",
+                    "assessment": ""
+                },
+                {
+                    "title": "River online Quiz",
+                    "plan": "Complete this onine quiz to learn about the major rivers of Asia",
+                    "note": "",
+                    "expectation": "",
+                    "resource": "River quiz",
+                    "link": "http://www.sheppardsoftware.com/Asia-rivers-click.html",
+                    "evidence": "",
+                    "assessment": ""
+                },
+                {
+                    "title": "River Quiz",
+                    "plan": "Big 13 rivers of Asia",
+                    "note": "",
+                    "expectation": "",
+                    "resource": "River quiz",
+                    "link": "https://drive.google.com/a/ucc.on.ca/file/d/0B-67aGL87ij3MmJhdzVHbWxUZWM/view?usp=sharing",
+                    "evidence": "",
+                    "assessment": ""
+                },
+                {
+                    "title": "Cities online Quizzes",
+                    "plan": "Complete onine quizzes to learn about the major cities of Asia",
+                    "note": "",
+                    "expectation": "",
+                    "resource": "",
+                    "link": "",
+                    "evidence": "",
+                    "assessment": ""
+                },
+                {
+                    "title": "Megacity Quiz",
+                    "plan": "Big 24 cities of Asia",
+                    "note": "",
+                    "expectation": "",
+                    "resource": "Megacity quiz",
+                    "link": "https://drive.google.com/a/ucc.on.ca/file/d/0B-67aGL87ij3YjZCcEFnTXl3Qlk/view?usp=sharing",
+                    "evidence": "",
+                    "assessment": ""
+                }
+            ],
+            "vocabulary": [
+                "Mesopotamia", "Indus valley", "Yellow valley", "Megacity"
+            ]
+        },
+        {
+            "id": 9,
+            "name": "Natural Boundaries of Regions",
+            "unit": "",
+            "outcomes": [
+                {
+                    "title": "Subregions of Asia: United Nations geoscheme",
+                    "plan": "Teacher remind students about 25 common subregions defined by UN",
+                    "note": "",
+                    "expectation": "",
+                    "resource": "UN geoscheme",
+                    "link": "https://en.wikipedia.org/wiki/United_Nations_geoscheme",
+                    "evidence": "",
+                    "assessment": ""
+                },
+                {
+                    "title": "ArcGIS Online lab 4 - Asian regions",
+                    "plan": "Students complete lab and submit lab as their class notes in exit ticket",
+                    "note": "",
+                    "expectation": "",
+                    "resource": "ArcGIS lab: regions",
+                    "link": "https://docs.google.com/a/ucc.on.ca/document/d/1SQS3FPDwUKQk5-XZjDdqH-A9W7zBnn0UxsU8COZoO-c/edit?usp=sharing",
+                    "evidence": "",
+                    "assessment": ""
+                },
+                {
+                    "title": "Regions Quiz",
+                    "plan": "Regions and landform terninology",
+                    "note": "",
+                    "expectation": "",
+                    "resource": "Regions quiz",
+                    "link": "https://drive.google.com/a/ucc.on.ca/file/d/0B-67aGL87ij3ZzhVcmhHLWwyUzg/view?usp=sharing",
+                    "evidence": "",
+                    "assessment": ""
+                }
+            ],
+            "vocabulary": [
+                "Polygons", "Transparency", "Peninsula", "Archipelago", "Mountain range"
+            ]
+        },
+        {
+            "id": 10,
+            "name": "Climates of Regions",
+            "unit": "",
+            "outcomes": [
+                {
+                    "title": "What is climate?",
+                    "plan": "",
+                    "note": "Climate is NOT the atmospheric conditions right here, right now (weather)",
+                    "expectation": "",
+                    "resource": "",
+                    "link": "",
+                    "evidence": "",
+                    "assessment": ""
+                },
+                {
+                    "title": "How can climates be classified?",
+                    "plan": "Students read article and make notes",
+                    "note": "Toronto is between Dfb (warm summer like Winnipeg) and Dfa (hot summer like Chicago)",
+                    "expectation": "",
+                    "resource": "Koppen Wikipedia",
+                    "link": "https://en.wikipedia.org/wiki/Köppen_climate_classification",
+                    "evidence": "",
+                    "assessment": ""
+                },
+                {
+                    "title": "ArcGIS Online lab 5 - Asian climates",
+                    "plan": "Students complete lab and submit lab as their class notes in exit ticket",
+                    "note": "",
+                    "expectation": "",
+                    "resource": "ArcGIS lab: climates",
+                    "link": "https://docs.google.com/a/ucc.on.ca/document/d/1yzB5HKrKCO0ypPIlZZ2BE7vf_OeGuiM_YybevWPyIuM/edit?usp=sharing",
+                    "evidence": "",
+                    "assessment": ""
+                },
+                {
+                    "title": "Climates Quiz",
+                    "plan": "Climates and Koppen-Geiger classification system",
+                    "note": "",
+                    "expectation": "",
+                    "resource": "Climates quiz",
+                    "link": "https://drive.google.com/a/ucc.on.ca/file/d/0B-67aGL87ij3ZWtuVTdva01mc3M/view?usp=sharing",
+                    "evidence": "",
+                    "assessment": ""
+                }
+                
+            ],
+            "vocabulary": [
+                "Koppen-Geiger climate classification system", "Climate change", "Climate"
+            ]
+        },
+        {
+            "id": 11,
+            "name": "Fieldtrip to Chinatown",
+            "unit": "", 
+            "outcomes": [
+                {
+                    "title": "How many Overseas Chinese are there?",
+                    "plan": "students complete quick web research on Chinese diaspora - compile stats and links for your notes",
+                    "note": "40-50 million, mostly in Southeast Asia",
+                    "expectation": "",
+                    "resource": "Wikipedia article",
+                    "link": "https://en.wikipedia.org/wiki/Overseas_Chinese",
+                    "evidence": "",
+                    "assessment": ""
+                },
+                {
+                    "title": "How many Overseas Chinese are there in Toronto?",
+                    "plan": "students complete quick web research - compile stats and links for your notes",
+                    "note": "11% of Toronto, 20%+ in suburbs - do the math!",
+                    "expectation": "",
+                    "resource": "",
+                    "link": "",
+                    "evidence": "",
+                    "assessment": ""
+                },
+                {
+                    "title": "Where are 'China-towns' in Toronto?",
+                    "plan": "students complete quick web research - compile stats and links for your notes",
+                    "note": "There are up to 6 Chinatowns in Toronto - the biggest at Spadina and Dundas",
+                    "expectation": "",
+                    "resource": "Wikipedia article on Chinatown Toronto",
+                    "link": "https://en.wikipedia.org/wiki/Chinatown,_Toronto",
+                    "evidence": "",
+                    "assessment": ""
+                },
+                {
+                    "title": "Mandarin vs Cantonese: Cantonese wins in downtown",
+                    "plan": "Students watch video and compile differences for notes",
+                    "note": "Mandarin has 935M speakers to 60M Cantonese (centred around Hong Kong in southern China), but the latter remains the primary language used by businesses and restaurants in Chinatown",
+                    "expectation": "",
+                    "resource": "Video, watch until 2:30 seconds",
+                    "link": "https://www.youtube.com/watch?v=e73btaVo868",
+                    "evidence": "",
+                    "assessment": ""
+                },
+                {
+                    "title": "North vs South - The Rice Theory",
+                    "plan": "Students read article and take notes",
+                    "note": "China can be divided north - south by the Yangze River (Chang Jiang). North is the wheat belt and south the rice belt.",
+                    "expectation": "",
+                    "resource": "Rice Theory",
+                    "link": "https://drive.google.com/open?id=1x1ytvtnKIOkYUPUSPUK-749zJaEeAatRqGZNBa8t0qY",
+                    "evidence": "",
+                    "assessment": ""
+                },
+                {
+                    "title": "Field trip notes",
+                    "plan": "students review information about our trip",
+                    "note": "",
+                    "expectation": "",
+                    "resource": "trip link",
+                    "link": "https://docs.google.com/document/d/19XNRQxU9J4IntoAtP2RFEKX0mqbLVmtG3RgJA-I6C1I/edit?usp=sharing",
+                    "evidence": "",
+                    "assessment": ""
+                },
+                {
+                    "title": "Assign students to addresses",
+                    "plan": "",
+                    "note": "",
+                    "expectation": "",
+                    "resource": "",
+                    "link": "",
+                    "evidence": "",
+                    "assessment": ""
+                },
+                {
+                    "title": "Students decide menu",
+                    "plan": "",
+                    "note": "",
+                    "expectation": "",
+                    "resource": "",
+                    "link": "",
+                    "evidence": "",
+                    "assessment": ""
+                }
+            ],
+            "vocabulary": [
+                "Diaspora", "Overseas chinese", "Chinatown", "Mandarin", "Cantonese", "Vietnamese"
+            ]
+        },
+        {
+            "id": 12,
+            "name": "Fieldtrip to Chinatown II",
+            "unit": "", 
+            "outcomes": [
+                {
+                    "title": "Group shot",
+                    "plan": "geo students in the field",
+                    "note": "Very serious data collection and cultural appreciation going on - and a bit of fun too",
+                    "expectation": "",
+                    "resource": "team photo",
+                    "link": "https://drive.google.com/file/d/0B-67aGL87ij3Q2Z5RTF0Y1pJUkk/view?usp=sharing",
+                    "evidence": "",
+                    "assessment": ""
+                },
+                
+                {
+                    "title": "Data and Mapping",
+                    "plan": "students download data as CSV and drag into ArcGIS Online map",
+                    "note": "",
+                    "expectation": "",
+                    "resource": "map",
+                    "link": "https://drive.google.com/file/d/0B-67aGL87ij3bWdqMjhnWl9NMkU/view?usp=sharing",
+                    "evidence": "",
+                    "assessment": ""
+                },
+                {
+                    "title": "Create map",
+                    "plan": "students screenshot map and write a conclusion about distribution of Chinese businesses and diversity in Chinatown",
+                    "note": "",
+                    "expectation": "",
+                    "resource": "data",
+                    "link": "https://drive.google.com/file/d/0B-67aGL87ij3MFo4NXVHSXdOOW8/view?usp=sharing",
+                    "evidence": "",
+                    "assessment": ""
+                }
+            ],
+            "vocabulary": [
+                "CSV"
+            ]
+        },
+        {
+            "id": 13,
+            "name": "Test",
+            "unit": "", 
+            "outcomes": [
+                {
+                    "title": "Topics and format",
+                    "plan": "students review topics and format",
+                    "note": "",
+                    "expectation": "",
+                    "resource": "topics and format",
+                    "link": "https://docs.google.com/document/d/1p05-0NOPOAKB91MqheCdYINM5A2nF4YuD_RVoyGwTCA/edit?usp=sharing",
+                    "evidence": "",
+                    "assessment": ""
+                }
+            ],
+            "vocabulary": [
+                ""
+            ]
+        },
+        {
+            "id": 14,
+            "name": "The Wealth of Nations",
+            "unit": "",
+            "outcomes": [
+                {
+                    "title": "What are some wealthy nations in Asia?",
+                    "plan": "students brainstorm a list",
+                    "note": "Quatar, Macau, Singapore, Israel ... any big guys? Japan",
+                    "expectation": "",
+                    "resource": "",
+                    "link": "",
+                    "evidence": "",
+                    "assessment": ""
+                },
+                {
+                    "title": "How do we measure wealth?",
+                    "plan": "think/pair/share",
+                    "note": "GDP / capita ... is there a better way? PPP",
+                    "expectation": "",
+                    "resource": "",
+                    "link": "",
+                    "evidence": "",
+                    "assessment": ""
+                },
+                {
+                    "title": "ArcGIS Online lab 6 - Wealth of Nations",
+                    "plan": "Students copy and complete lab and submit lab as their class notes in exit ticket",
+                    "note": "",
+                    "expectation": "",
+                    "resource": "ArcGIS lab: Wealth of Nations",
+                    "link": "https://docs.google.com/a/ucc.on.ca/document/d/1YbrCngwCyftaIISVdh6yEagxok3HOqpoEwtEB86wuDY/edit?usp=sharing",
+                    "evidence": "",
+                    "assessment": ""
+                },
+                {
+                    "title": "Wealth Quiz",
+                    "plan": "Rates",
+                    "note": "",
+                    "expectation": "",
+                    "resource": "Wealth quiz",
+                    "link": "https://drive.google.com/a/ucc.on.ca/file/d/0B-67aGL87ij3Uk1OUVl0QllUbUk/view?usp=sharing",
+                    "evidence": "",
+                    "assessment": ""
+                }
+            ],
+            "vocabulary": [
+                "GNI",
+                "PPP",
+                "Growth rate"
+            ]
+        },
+        {
+            "id": 15,
+            "name": "The Dragon Awakes: The Chinese development model",
+            "unit": "UNIT 2: The Dragon and its neighbours", 
+            "outcomes": [
+                {
+                    "title": "The Dragon Awakes: 2000 years of economic history in one graph",
+                    "plan": "students make copy of document, read and complete work sheet",
+                    "note": "",
+                    "expectation": "",
+                    "resource": "worksheet",
+                    "link": "https://docs.google.com/document/d/1cIT0Co3un-y8cg8rjxyu9rPgdwtoa43h_SOMQoMmgkg/edit?usp=sharing",
+                    "evidence": "",
+                    "assessment": ""
+                },
+                {
+                    "title": "China's development model since 1978",
+                    "plan": "students make copy, read and complete work sheet",
+                    "note": "",
+                    "expectation": "",
+                    "resource": "worksheet",
+                    "link": "https://docs.google.com/document/d/1GzZ-qqxK0fGkedoqVT_HiD0TtxMlJ5Mc2qHVI_wa-rg/edit?usp=sharing",
+                    "evidence": "",
+                    "assessment": ""
+                },
+                {
+                    "title": "Special Economic Zones",
+                    "plan": "students review slide - learn coastal, interior, western and waves of SEZ creation",
+                    "note": "50%+ of China GDP comes from SEZ - coastal Shenzen, Shantou (1980), Tianjin, Shanghai (1984), all capital cities of inland provinces and selected border cities (1992), Kashgar in far western China near the Stans (2010)",
+                    "expectation": "",
+                    "resource": "SEZ",
+                    "link": "http://images.slideplayer.com/7/1728252/slides/slide_61.jpg",
+                    "evidence": "",
+                    "assessment": ""
+                },
+                {
+                    "title": "Complete exit ticket",
+                    "plan": "students complete worksheets and then link to them in their lesson document, complete vocab and do exit ticket",
+                    "note": "",
+                    "expectation": "",
+                    "resource": "",
+                    "link": "",
+                    "evidence": "",
+                    "assessment": ""
+                },
+                {
+                    "title": "Quiz",
+                    "plan": "students demonstrate understanding of economic reforms and main rivers and cities",
+                    "note": "",
+                    "expectation": "",
+                    "resource": "",
+                    "link": "https://docs.google.com/document/d/1CFFNMTQAofBSTgPyZ0j_PDSxvyFgOcqBgh4VB51hpjY/edit?usp=sharing",
+                    "evidence": "",
+                    "assessment": ""
+                }
+            ],
+            "vocabulary": [
+                "Deng Xiaoping", "Globalization", "IMF","World Bank", "WTO", "Market economy", "GDP", "Privatization", "Coastal China", "Special Economic Zones","Manufacturing", "Exports", "Primary", "Secondary", "Tertiary","Income disparity","Interior China", "Western China"
+            ]
+        },
+        {
+            "id": 16,
+            "name": "The Largest Migration in human history",
+            "unit": "", 
+            "outcomes": [
+                {
+                    "title": "Most of China's population is in the relatively flat coastal plain or river valleys",
+                    "plan": "students review Hu Huanyong line - what part is the core and what is the periphery of China?",
+                    "note": "",
+                    "expectation": "",
+                    "resource": "",
+                    "link": "https://drive.google.com/open?id=0B-67aGL87ij3aVN4T0dqQTZtNVE",
+                    "evidence": "",
+                    "assessment": ""
+                },
+                {
+                    "title": "23 provinces, 4 municipalities, 5 autonomous regions and two special administrative zones",
+                    "plan": "students research sub-national districts and map them by name and type",
+                    "note": "",
+                    "expectation": "",
+                    "resource": "blank map",
+                    "link": "http://www.zonu.com/images/0X0/2011-07-25-14123/China-blank-map.png",
+                    "evidence": "",
+                    "assessment": ""
+                },
+                {
+                    "title": "China provinces quiz",
+                    "plan": "students take the test until they get 75%",
+                    "note": "",
+                    "expectation": "",
+                    "resource": "online quiz",
+                    "link": "http://lizardpoint.com/geography/china-quiz.php",
+                    "evidence": "",
+                    "assessment": ""
+                },
+                {
+                    "title": "The largest internal migration in human history",
+                    "plan": "students watch video and complete worksheet",
+                    "note": "",
+                    "expectation": "",
+                    "resource": "Economist video worksheet",
+                    "link": "https://docs.google.com/document/d/17qkmxhqbBqaoqADrFVpafMqAV8RLR89l8AOrOXpata8/edit?usp=sharing",
+                    "evidence": "",
+                    "assessment": ""
+                }
+            ],
+            "vocabulary": [
+                "core-periphery", "Hu Huanyong line", "Migration", "Rural depopulation", "Urbanization", "Provinces", "Municipalities", "Autonomous regions"
+            ]
+        },
+        {
+            "id": 17,
+            "name": "Distribution of wealth and quality of life in China",
+            "unit": "", 
+            "outcomes": [
+                {
+                    "title": "Provincial economy equivalents",
+                    "plan": "students compare China's provincial economies to Ontario",
+                    "note": "",
+                    "expectation": "",
+                    "resource": "work sheet",
+                    "link": "https://docs.google.com/document/d/1tfbW-AlFKusGLZlmRz-5XIPhn6bNbo0K2kw_mWFdYpk/edit?usp=sharing",
+                    "evidence": "",
+                    "assessment": ""
+                },
+                {
+                    "title": "Quality of life disparity between provinces",
+                    "plan": "students define HDI, put map in notes and make conclusions on regional differences (coastal | inland | western)",
+                    "note": "Ontario and Canada are both rated .913 on HDI scale - very high - how do Chinese provinces fare?",
+                    "expectation": "",
+                    "resource": "HDI admin",
+                    "link": "https://en.wikipedia.org/wiki/List_of_administrative_divisions_of_Greater_China_by_Human_Development_Index",
+                    "evidence": "",
+                    "assessment": ""
+                },
+                {
+                    "title": "Rich Province, Poor Province - Regional Development Strategies",
+                    "plan": "students read article and take notes",
+                    "note": "",
+                    "expectation": "",
+                    "resource": "rich poor",
+                    "link": "https://docs.google.com/document/d/13YpACn8xq9_1jffYZFLH-IeiwzybyPelpHrBe7x2Rjw/edit?usp=sharing",
+                    "evidence": "",
+                    "assessment": ""
+                },
+                {
+                    "title": "Quiz",
+                    "plan": "",
+                    "note": "",
+                    "expectation": "",
+                    "resource": "https://goo.gl/forms/bwRf73QwBobcrqTH2",
+                    "link": "",
+                    "evidence": "",
+                    "assessment": ""
+                }
+            ],
+            "vocabulary": [
+                "HDI", "Shanghai","Gansu","Xi Jinping","Regional disparity", "Regional development", "Go West", "Belt and Road"
+            ]
+        },
+        {
+            "id": 18,
+            "name": "Perspectives on development mega-projects",
+            "unit": "", 
+            "outcomes": [
+                {
+                    "title": "Future mega-projects in China",
+                    "plan": "students watch video and take notes",
+                    "note": "",
+                    "expectation": "",
+                    "resource": "Future mega-projects",
+                    "link": "https://www.youtube.com/watch?v=gNE7VPtvfbI",
+                    "evidence": "",
+                    "assessment": ""
+                },
+                {
+                    "title": "Focus on the 3-Gorges Dam",
+                    "plan": "students read article and complete questions",
+                    "note": "",
+                    "expectation": "",
+                    "resource": "Three Gorges Dam pros cons",
+                    "link": "https://docs.google.com/document/d/1KMEdH6_pgMmgar4zbFdq-qm4rcZrKXMjT20Xc7h6Nmk/edit?usp=sharing",
+                    "evidence": "",
+                    "assessment": ""
+                },
+                {
+                    "title": "What is your perspective on the 3-Gorges mega-project?",
+                    "plan": "students watch video and formulate their own perspective [10 marks]",
+                    "note": "Take a postion, SEPE (3 good reasons with examples for), think of counter argument, then refute or dilute it, then conclude",
+                    "expectation": "",
+                    "resource": "3 Gorges video",
+                    "link": "https://www.youtube.com/watch?v=b8cCsUBYSkw",
+                    "evidence": "",
+                    "assessment": ""
+                }
+            ],
+            "vocabulary": [
+                "Yangtze", "3 Gorges", "Megalopolos", "JingJinJi","High speed rail","South–North Water Transfer Project", "Wind power"
+            ]
+        },
+        {
+            "id": 19,
+            "name": "The Dragon Awakes: Infographic",
+            "unit": "", 
+            "outcomes": [
+                {
+                    "title": "What is an info-graphic? - urbanization in China",
+                    "plan": "students review and critique infographic",
+                    "note": "1980 200m people lived in Chinese cities, now it is 700m+ - equavilent to adding urban infrastructure (housing, roads, jobs etc) for population of Canada, USA and Mexico",
+                    "expectation": "",
+                    "resource": "",
+                    "link": "http://www.dragon-star.eu/wp-content/uploads/2013/03/HUKU-INFOGRAPHIC.jpg",
+                    "evidence": "",
+                    "assessment": ""
+                },
+                {
+                    "title": "What should mine look like?",
+                    "plan": "teacher show example project - posters on the wall with rubrics beside",
+                    "note": "",
+                    "expectation": "",
+                    "resource": "",
+                    "link": "",
+                    "evidence": "",
+                    "assessment": ""
+                },
+                {
+                    "title": "How will I be evaluated?",
+                    "plan": "teacher answer questions about the rubric",
+                    "note": "",
+                    "expectation": "",
+                    "resource": "rubric",
+                    "link": "https://docs.google.com/a/ucc.on.ca/forms/d/e/1FAIpQLSfY8m-o1HHPkrRJ73520BVCF1ucMHjVJJCx-38Vle1Mk0PWuA/viewform",
+                    "evidence": "",
+                    "assessment": ""
+                },
+                {
+                    "title": "How do I make the infographic?",
+                    "plan": "students watch video",
+                    "note": "ArcGIS online, QGIS, ScapeToad, MS Excel and MS Powerpoint - WOW!",
+                    "expectation": "",
+                    "resource": "youtube how to",
+                    "link": "https://www.youtube.com/watch?v=K7Yg7gTHQR8",
+                    "evidence": "",
+                    "assessment": ""
+                },
+                {
+                    "title": "ScapeToad?",
+                    "plan": "students download, install ScapeToad and move files to a new folder in Applications",
+                    "note": "",
+                    "expectation": "",
+                    "resource": "download scapetoad",
+                    "link": "http://scapetoad.choros.ch/download.php",
+                    "evidence": "",
+                    "assessment": ""
+                }
+                
+            ],
+            "vocabulary": [
+                "", ""
+            ]
+        },
+        {
+            "id": 20,
+            "name": "Infographic work period",
+            "unit": "", 
+            "outcomes": [
+                {
+                    "title": "",
+                    "plan": "",
+                    "note": "",
+                    "expectation": "",
+                    "resource": "",
+                    "link": "",
+                    "evidence": "",
+                    "assessment": ""
+                }
+            ],
+            "vocabulary": [
+                "", ""
+            ]
+        },
+        {
+            "id": 21,
+            "name": "Will China become the most powerful country?",
+            "unit": "", 
+            "outcomes": [
+                {
+                    "title": "China continues to challenge the USA, but will it become the greater power?",
+                    "plan": "students read and complete vocab and questions",
+                    "note": "",
+                    "expectation": "",
+                    "resource": "China's Twilight Years",
+                    "link": "https://docs.google.com/document/d/1hKC4wDOcqDiFST4bsz5LgG3uV-RJAeDkeliL2hNI3_Y/edit?usp=sharing",
+                    "evidence": "",
+                    "assessment": ""
+                }
+            ],
+            "vocabulary": [
+                "demographics","one child policy", "fertility rate", "median age","working age","dependency ration","pension","immigration"
+            ]
+        },
+        {
+            "id": 22,
+            "name": "Territorial disputes and exclusive economic zones",
+            "unit": "", 
+            "outcomes": [
+                {
+                    "title": "Territorial disputes between China and Japan",
+                    "plan": "students watch video to get an idea of the disputes that are out there",
+                    "note": "",
+                    "expectation": "",
+                    "resource": "Economist video",
+                    "link": "https://www.youtube.com/watch?v=SscQBrJbiN0",
+                    "evidence": "",
+                    "assessment": ""
+                },
+                {
+                    "title": "ArcGIS lab - EEZ and 9 dashed line",
+                    "plan": "students make a copy and complete ",
+                    "note": "China is attempting to gain sovereignty over the South China Sea. Many say it is to regain prestige, take control of valuable trade routes, access marine and sub-surface resources and establish a military presence for a future conflict",
+                    "expectation": "",
+                    "resource": "EEZ lab",
+                    "link": "https://docs.google.com/document/d/1txNDMKpFzv_EejfQMltD-36V3tHXnou0UE4ZyEUlEZM/edit?usp=sharing",
+                    "evidence": "",
+                    "assessment": ""
+                }
+            ],
+            "vocabulary": [
+                "EEZ", "UNCLOS", "9 dashed line", "200NM", "Spratly islands", "Scarborough Shoal", "Paracel islands", "Sovereignty", "Territorial disputes"
+            ]
+        },
+        {
+            "id": 23,
+            "name": "Model UNCLOS Tribunal (group role playing)",
+            "unit": "", 
+            "outcomes": [
+                {
+                    "title": "Who has a stake in the South China Sea sovereignty territorial dispute?",
+                    "plan": "students review 9 dashed line and EEZ map",
+                    "note": "China, Taiwan, Philippines, Vietnam, Brunei, Indonesia, Malaysia",
+                    "expectation": "",
+                    "resource": "",
+                    "link": "https://www.theguardian.com/world/2016/jul/12/philippines-wins-south-china-sea-case-against-china",
+                    "evidence": "",
+                    "assessment": ""
+                },
+                {
+                    "title": "Why is sovereignty so important in the South China Sea?",
+                    "plan": "students do research to find 3 facts on importance of SCS",
+                    "note": "trade, marine and sub-surface resources, military, prestige",
+                    "expectation": "",
+                    "resource": "",
+                    "link": "",
+                    "evidence": "",
+                    "assessment": ""
+                },
+                {
+                    "title": "What is the status of the China vs. Philippines tribunal?",
+                    "plan": "students read article and make notes",
+                    "note": "China lost, but refuses to accept the findings of UNCLOS",
+                    "expectation": "",
+                    "resource": "",
+                    "link": "https://www.theguardian.com/world/2016/jul/12/philippines-wins-south-china-sea-case-against-china",
+                    "evidence": "",
+                    "assessment": ""
+                },
+                {
+                    "title": "Form partners and assign stakeholder",
+                    "plan": "students find a partner and teacher assign a stakeholder to each",
+                    "note": "",
+                    "expectation": "",
+                    "resource": "Spreadsheet",
+                    "link": "https://docs.google.com/spreadsheets/d/1gjymWqmZmZFu83vXaFpPue0CnZpZOrhmt213s226L74/edit?usp=sharing",
+                    "evidence": "",
+                    "assessment": ""
+                },
+                {
+                    "title": "How will we be evaluated?",
+                    "plan": "students review rubric and ask questions",
+                    "note": "",
+                    "expectation": "",
+                    "resource": "",
+                    "link": "https://docs.google.com/a/ucc.on.ca/forms/d/e/1FAIpQLSc9g0s9t1gqstBtDo377KpygTAEYJ2xp6T_4RfhU20BjLmsOA/viewform",
+                    "evidence": "",
+                    "assessment": ""
+                },
+                {
+                    "title": "Stakeholder research and preparation",
+                    "plan": "students perform initial research and prepare for their 10 minute presentation",
+                    "note": "",
+                    "expectation": "",
+                    "resource": "",
+                    "link": "",
+                    "evidence": "",
+                    "assessment": ""
+                }
+            ],
+            "vocabulary": [
+                "", ""
+            ]
+        },
+        {
+            "id": -99,
+            "name": "Role playing work period",
+            "unit": "", 
+            "outcomes": [
+                {
+                    "title": "",
+                    "plan": "",
+                    "note": "",
+                    "expectation": "",
+                    "resource": "",
+                    "link": "",
+                    "evidence": "",
+                    "assessment": ""
+                }
+            ],
+            "vocabulary": [
+                "", ""
+            ]
+        },
+        {
+            "id": -99,
+            "name": "Model Tribunal",
+            "unit": "", 
+            "outcomes": [
+                {
+                    "title": "",
+                    "plan": "",
+                    "note": "",
+                    "expectation": "",
+                    "resource": "",
+                    "link": "",
+                    "evidence": "",
+                    "assessment": ""
+                }
+            ],
+            "vocabulary": [
+                "", ""
+            ]
+        },
+        {
+            "id": 24,
+            "name": "Indonesia: provinces",
+            "unit": "UNIT 3: The Komodo and its neighbours", 
+            "outcomes": [
+                {
+                    "title": "34 Provinces",
+                    "plan": "students review provinces map and information such as area and population",
+                    "note": "",
+                    "expectation": "",
+                    "resource": "Provinces of Indo",
+                    "link": "https://en.wikipedia.org/wiki/Provinces_of_Indonesia",
+                    "evidence": "",
+                    "assessment": ""
+                },
+                {
+                    "title": "34 Provinces quiz",
+                    "plan": "students complete quiz",
+                    "note": "",
+                    "expectation": "",
+                    "resource": "Provinces of Indo",
+                    "link": "http://www.purposegames.com/game/e56d9d98",
+                    "evidence": "",
+                    "assessment": ""
+                },
+                {
+                    "title": "Quiz",
+                    "plan": "student take provinces and seas quiz",
+                    "note": "",
+                    "expectation": "",
+                    "resource": "Provinces of Indo",
+                    "link": "https://docs.google.com/document/d/1JGhA0-sIarymvTq2VDA6ePC5dJoBh2io-vs7C-KJaaw/edit?usp=sharing",
+                    "evidence": "",
+                    "assessment": ""
+                }
+            ],
+            "vocabulary": [
+                ""
+            ]
+        },
+        {
+            "id": 25,
+            "name": "Getting to know Indonesia - ArcGIS lab",
+            "unit": "", 
+            "outcomes": [
+                {
+                    "title": "ArcGIS lab",
+                    "plan": "students complete the lab",
+                    "note": "",
+                    "expectation": "",
+                    "resource": "Indo lab",
+                    "link": "https://docs.google.com/document/d/1BophWzhYkVFBzOs2kLVcRB_Kq09Y0rub8IAhnQu5FL4/edit?usp=sharing",
+                    "evidence": "",
+                    "assessment": ""
+                }
+            ],
+            "vocabulary": [
+                ""
+            ]
+        },
+        {
+            "id": 26,
+            "name": "Trade Flows: Strait of Malacca or the Kra Isthmus Canal?",
+            "unit": "", 
+            "outcomes": [
+                {
+                    "title": "Tankers clog the Malacca Strait at Phillips Channel (2.5km) in Singapore",
+                    "plan": "students, why there is such congestion here?",
+                    "note": "",
+                    "expectation": "",
+                    "resource": "",
+                    "link": "http://fm.cnbc.com/applications/cnbc.com/resources/img/editorial/2014/08/28/101954779-177999785-1.1910x1000.jpg?v=1410357884",
+                    "evidence": "",
+                    "assessment": ""
+                },
+                {
+                    "title": "Piracy around the Malay Peninsula",
+                    "plan": "ask students why there are attacks here?",
+                    "note": "",
+                    "expectation": "",
+                    "resource": "",
+                    "link": "https://timedotcom.files.wordpress.com/2014/09/map.png",
+                    "evidence": "",
+                    "assessment": ""
+                },
+                {
+                    "title": "Malacca Strait or Kra Canal - Note taking exercise",
+                    "plan": "students make copy of Google Doc and use for directed note taking",
+                    "note": "",
+                    "expectation": "D2.2 analyse key aspects of trade in this region, including trade among countries within the region as well as with those elsewhere in the world, D3.5 analyse the advantages and disadvantages of foreign investment for this region, with reference, as appropriate, to countries that invest and those that attract investment",
+                    "resource": "",
+                    "link": "https://docs.google.com/document/d/18mGW1ytEH2KMocK4WCZ-9sZFqUUBrc6zoFk4ZS9BkmM/edit",
+                    "evidence": "",
+                    "assessment": ""
+                }
+            ],
+            "vocabulary": [
+                "Strait", "Isthmus", "Peninsula", "Phillips Channel"
+            ]
+        },
+        {
+            "id": 27,
+            "name": "Indonesia in ASEAN: First among equals?",
+            "unit": "", 
+            "outcomes": [
+                {
+                    "title": "ASEAN notes",
+                    "plan": "students watch videos and read wiki page to complete structured notes - use as Notes in Exit Ticket",
+                    "note": "",
+                    "expectation": "D2.2 analyse key aspects of trade in this region, including trade among countries within the region as well as with those elsewhere in the world",
+                    "resource": "",
+                    "link": "https://docs.google.com/document/d/1tSH9dGb0OeVDNG0paLzoy77TgRSRZEWl3f6Q_L9g5fc/edit?usp=sharing",
+                    "evidence": "",
+                    "assessment": ""
+                },
+                {
+                    "title": "Indonesia: The Germany of ASEAN?",
+                    "plan": "students read article and answer questions - paste questions/answers into your notes",
+                    "note": "",
+                    "expectation": "",
+                    "resource": "",
+                    "link": "https://docs.google.com/document/d/1blaCAcoPFK6STx5C35C43cvb8wylHaBzWAFONMz6f4o/edit?usp=sharing",
+                    "evidence": "",
+                    "assessment": ""
+                }
+                
+            ],
+            "vocabulary": [
+                "ASEAN"
+            ]
+        },
+        {
+            "id": 28,
+            "name": "The Dutch East Indies: Natural resources and colonialism",
+            "unit": "", 
+            "outcomes": [
+                {
+                    "title": "Crash Course video and VOC notes template",
+                    "plan": "students make a copy of these notes, watch video and complete notes - link them to EXIT TICKET",
+                    "note": "",
+                    "expectation": "C1.4 explain how imperialism/colonialism has affected the region, with reference to its people and their relationship with the natural resources in the region",
+                    "resource": "notes",
+                    "link": "https://docs.google.com/document/d/1jGDxa2E6u7qiRRFOlPQwKDyEL7-MqIhIB7zErfKOWSs/edit?usp=sharing",
+                    "evidence": "",
+                    "assessment": ""
+                }
+            ],
+            "vocabulary": [
+                "Monopoly", "Dutch East India Company (VOC)", "Imperialism/Colonialism"
+            ]
+        },
+        {
+            "id": 29,
+            "name": "Test",
+            "unit": "", 
+            "outcomes": [
+                {
+                    "title": "Topics and format of the test",
+                    "plan": "students read the document and ask questions",
+                    "note": "",
+                    "expectation": "",
+                    "resource": "",
+                    "link": "https://docs.google.com/document/d/1MsWjxurLY--eY7SCwvu1pNCVS4OeBmg04dpbZXmWYPQ/edit?usp=sharing",
+                    "evidence": "",
+                    "assessment": ""
+                }
+            ],
+            "vocabulary": [
+                ""
+            ]
+        },
+        {
+            "id": 30,
+            "name": "Natural resources: Oil and Corruption",
+            "unit": "", 
+            "outcomes": [
+                {
+                    "title": "Oil industry in Indonesia and Corruption worksheet",
+                    "plan": "students make copy and complete - use this as notes on Exit Ticket",
+                    "note": "",
+                    "expectation": "C1.1 identify the main natural resources that are harvested/extracted in the region, D3.2 describe the main types of industry in the region",
+                    "resource": "",
+                    "link": "https://docs.google.com/document/d/1agf-xzwjGFdEndDJVrz4Nf8jntDTtAB8VDeW9b-SvQk/edit?usp=sharing",
+                    "evidence": "",
+                    "assessment": ""
+                }
+            ],
+            "vocabulary": [
+                "Corruption", "Joko Widodo", "Transparency index", "Oil industry"
+            ]
+        },
+        {
+            "id": 31,
+            "name": "Natural resources: Palm Oil vs. Orangutans",
+            "unit": "", 
+            "outcomes": [
+                {
+                    "title": "Why palm oil is bad",
+                    "plan": "students make copy and complete - use this as notes on Exit Ticket",
+                    "note": "",
+                    "expectation": "D3.4 explain the benefits and disadvantages of the operations of multinational corporations [MNCs] in the region",
+                    "resource": "palm oil problem, C1.1 identify the main natural resources that are harvested/extracted in the region",
+                    "link": "https://docs.google.com/document/d/1gkkUSXFUsF6d-JOVjRNfILPcaiL6a5OCH3SQHUBcTBs/edit?usp=sharing",
+                    "evidence": "",
+                    "assessment": ""
+                }
+            ],
+            "vocabulary": [
+                "Palm oil", "Orangutans","Deforestation", "GHG emissions", "Climate change","MNCs", "NGOs"
+            ]
+        },
+        {
+            "id": 32,
+            "name": "Natural resources: Pros and Cons of Foreign Direct Investment by MNCs",
+            "unit": "", 
+            "outcomes": [
+                {
+                    "title": "FDI worksheet",
+                    "plan": "students make copy and complete - use this as notes on Exit Ticket",
+                    "note": "",
+                    "expectation": "D3.4 explain the benefits and disadvantages of the operations of multinational corporations [MNCs] in the region, C1.2 assess the effects, both positive and negative, on the region of outside demand for its products and/or resources (deforestation)",
+                    "resource": "FDI in ASEAN",
+                    "link": "https://docs.google.com/document/d/1x2nM82pDtNRCOQMgip5yh8l8wzrpymw_JKFGq6UFuvA/edit?usp=sharing",
+                    "evidence": "",
+                    "assessment": ""
+                }
+            ],
+            "vocabulary": [
+                "FDI"
+            ]
+        },
+        {
+            "id": 33,
+            "name": "Sustainable Palm Oil",
+            "unit": "", 
+            "outcomes": [
+                {
+                    "title": "Introduction to RSPO",
+                    "plan": "students make copy and complete - use this as notes on Exit Ticket",
+                    "note": "",
+                    "expectation": "",
+                    "resource": "worksheet on RSPO",
+                    "link": "https://docs.google.com/document/d/1854kC3scopoHAEWRBM39mZbK8eKoKRPLcOIDW13tQBw/edit?usp=sharing",
+                    "evidence": "",
+                    "assessment": ""
+                }
+            ],
+            "vocabulary": [
+                "RSPO", "Hectare", "WWF"
+            ]
+        },
+        {
+            "id": 34,
+            "name": "ArcGIS lab: Palm Oil in Indonesia",
+            "unit": "", 
+            "outcomes": [
+                {
+                    "title": "ArcGIS Palm Oil lab",
+                    "plan": "students make copy and complete - use this as notes on Exit Ticket",
+                    "note": "",
+                    "expectation": "",
+                    "resource": "Palm oil lab",
+                    "link": "https://docs.google.com/document/d/10hQ3pgmk-ZOv31Bg_rbXutZ0lVhsID4tRT0LtZnuZHg/edit?usp=sharing",
+                    "evidence": "",
+                    "assessment": ""
+                }
+            ],
+            "vocabulary": [
+                "Concessions", "Mills"
+            ]
+        },
+        {
+            "id": 35,
+            "name": "Poster: Palm Oil Project work period",
+            "unit": "", 
+            "outcomes": [
+                {
+                    "title": "How will I be graded?",
+                    "plan": "students read rubric, ask questions and review example",
+                    "note": "",
+                    "expectation": "",
+                    "resource": "rubric",
+                    "link": "https://docs.google.com/document/d/1dZEYMOI0wBF4N_8cnTCMnvn92S_O95gvoq6jrX6A7oc/edit?usp=sharing",
+                    "evidence": "",
+                    "assessment": ""
+                }
+            ],
+            "vocabulary": [
+                "", ""
+            ]
+        },
+        {
+            "id": 36,
+            "name": "Poster: Palm Oil Project work period 2",
+            "unit": "", 
+            "outcomes": [
+                {
+                    "title": "How will I be graded?",
+                    "plan": "students read rubric, ask questions and review example",
+                    "note": "",
+                    "expectation": "",
+                    "resource": "rubric",
+                    "link": "https://docs.google.com/document/d/1dZEYMOI0wBF4N_8cnTCMnvn92S_O95gvoq6jrX6A7oc/edit?usp=sharing",
+                    "evidence": "",
+                    "assessment": ""
+                }
+            ],
+            "vocabulary": [
+                "", ""
+            ]
+        },
+        {
+            "id": 37,
+            "name": "I hear Bali is nice: Impacts of tourism",
+            "unit": "", 
+            "outcomes": [
+                {
+                    "title": "Bali worksheet",
+                    "plan": "students make copy and complete - use this as notes on Exit Ticket",
+                    "note": "",
+                    "expectation": "D3.6 analyse the role of travel and tourism in the economy of the region as well as the environmental and cultural impact of the tourism industry, E1.1 assess the impact of globalization on the people of the region",
+                    "resource": "Bali worksheet",
+                    "link": "https://docs.google.com/document/d/16Bdo8w63Wb7U4V_FUl5jMaAxD-J9p4DGJqycdQGg2KU/edit?usp=sharing",
+                    "evidence": "",
+                    "assessment": ""
+                }
+            ],
+            "vocabulary": [
+                "Globalization", "Bali tourism"
+            ]
+        },
+        {
+            "id": 38,
+            "name": "Indian states - facts and figures",
+            "unit": "UNIT 4: The Tiger and its neighbours", 
+            "outcomes": [
+                {
+                    "title": "29 states and union territories",
+                    "plan": "students make copy and complete - use this as notes on Exit Ticket",
+                    "note": "",
+                    "expectation": "",
+                    "resource": "worksheet",
+                    "link": "https://docs.google.com/document/d/1HMDqYC9U1frhs8Oj9CC9yCDwUIxSCKcYH5FRATM8cbA/edit?usp=sharing",
+                    "evidence": "",
+                    "assessment": ""
+                },
+                {
+                    "title": "Map practice",
+                    "plan": "students write in states and union territories",
+                    "note": "",
+                    "expectation": "",
+                    "resource": "map practice ",
+                    "link": "https://docs.google.com/document/d/1MWY7Xp4c4uTqz5va_kW7CeraqQtl_7gQuMWEAryHwhs/edit?usp=sharing",
+                    "evidence": "",
+                    "assessment": ""
+                },
+                {
+                    "title": "Quiz",
+                    "plan": "",
+                    "note": "",
+                    "expectation": "",
+                    "resource": "quiz",
+                    "link": "",
+                    "evidence": "",
+                    "assessment": ""
+                }
+            ],
+            "vocabulary": [
+                "States", "Union territories", "Telangana", "Andhra Pradesh"
+            ]
+        },
+        {
+            "id": 39,
+            "name": "GIS lab: Development in India",
+            "unit": "", 
+            "outcomes": [
+                {
+                    "title": "Development lab",
+                    "plan": "students make copy and complete - use this as notes on Exit Ticket",
+                    "note": "",
+                    "expectation": "",
+                    "resource": "",
+                    "link": "https://docs.google.com/document/d/1sjrHg-5SAQYLXhg660ZERb6jFSohz3m3tvQvqBcwrEA/edit?usp=sharing",
+                    "evidence": "",
+                    "assessment": ""
+                }
+            ],
+            "vocabulary": [
+                "Indo-Gangetic plain", "Kerala", "Bihar", "Uttar Pradesh", "Population pyramids", "Indicators of development"
+            ]
+        },
+        {
+            "id": 40,
+            "name": "Violent partition: Cultural Conflict in the sub-continent",
+            "unit": "", 
+            "outcomes": [
+                {
+                    "title": "Causes and impact of cultural conflict",
+                    "plan": "students make copy and complete - use this as notes on Exit Ticket",
+                    "note": "",
+                    "expectation": "D2.3 analyse key causes of social and/or cultural conflict and cooperation within the region, D2.4 describe instances of political conflict or cooperation in the region, and explain their impact",
+                    "resource": "",
+                    "link": "https://docs.google.com/document/d/1AATiLzODm2R7HG19Q57XzYfk2R4v1i_eV6VR_YBjeCg/edit?usp=sharing",
+                    "evidence": "",
+                    "assessment": ""
+                },
+                {
+                    "title": "Kashmir map quiz",
+                    "plan": "",
+                    "note": "",
+                    "expectation": "",
+                    "resource": "Kashmir",
+                    "link": "https://docs.google.com/document/d/1MUf5brg2XwkKpw1uAYkIkX_5oNtG0xkKbGqEr2xfgqA/edit?usp=sharing",
+                    "evidence": "",
+                    "assessment": ""
+                }
+            ],
+            "vocabulary": [
+                "Radcliffe Line", "Partition", "Ethnicity", "Ethnic cleansing", "Two-nation theory", "Religious", "Secular", "Jammu and Kashmir", "Line of Control", "Line of Actual Control"
+            ]
+        },
+        {
+            "id": 41,
+            "name": "Indus Water Treaty: Conflict and Cooperation",
+            "unit": "", 
+            "outcomes": [
+                {
+                    "title": "Worksheet on IWT",
+                    "plan": "students make copy and complete - use this as notes on Exit Ticket",
+                    "note": "",
+                    "expectation": "D2.3 analyse key causes of social and/or cultural conflict and cooperation within the region, D2.4 describe instances of political conflict or cooperation in the region, and explain their impact",
+                    "resource": "",
+                    "link": "https://docs.google.com/document/d/1WvKwiuguW3Z23kus9JjTEqX-QUmN10eO3rAA4lvbbss/edit?usp=sharing",
+                    "evidence": "",
+                    "assessment": ""
+                }
+            ],
+            "vocabulary": [
+                "Indus Water Treaty", "Drainage Basin", "Headwaters", "River mouth", "Tributaries", "Zero line", "Hydro generation", "Groundwater", "Irrigation", "Narendra Modi", "Mamnoon Hussain"
+            ]
+        },
+        {
+            "id": 42,
+            "name": "Climate Wars 2036 - Dyer Facts or Fiction?",
+            "unit": "", 
+            "outcomes": [
+                {
+                    "title": "Worksheet based on Gwyn Dyer's climate war scenario: 2036",
+                    "plan": "students read and answer questions",
+                    "note": "",
+                    "expectation": "D2.3 analyse key causes of social and/or cultural conflict and cooperation within the region",
+                    "resource": "",
+                    "link": "https://docs.google.com/document/d/1S1fIGpxvZTN5Grdr9214WIcW2TnIYQ2blUethPMPnBE/edit?usp=sharing",
+                    "evidence": "",
+                    "assessment": ""
+                }
+            ],
+            "vocabulary": [
+                "summer monsoon", "sub-continent", "estuary", "salination", "economic refugees"
+            ]
+        },
+        {
+            "id": 43,
+            "name": "Test",
+            "unit": "", 
+            "outcomes": [
+                {
+                    "title": "Topics, format and vocabulary",
+                    "plan": "students make a copy of the document and use it to create a comprehensive review guide",
+                    "note": "",
+                    "expectation": "",
+                    "resource": "",
+                    "link": "https://docs.google.com/document/d/1Hqn2aHO3yFHPavJ52x-Qgtvmq00WAhthRZ23J49XJLs/edit?usp=sharing",
+                    "evidence": "",
+                    "assessment": ""
+                }
+            ],
+            "vocabulary": [
+                "", ""
+            ]
+        },
+        {
+            "id": 44,
+            "name": "SAARC: The Next Big Thing or Never as good as ASEAN?",
+            "unit": "", 
+            "outcomes": [
+                {
+                    "title": "SAARC vs. ASEAN worksheet",
+                    "plan": "students make a copy and complete worksheet for their Exit Ticket",
+                    "note": "",
+                    "expectation": "C2.4 describe the role of non-governmental organizations (NGOs), as well as international government aid, in the region, D3.1 analyse how various factors affect economic development in the region",
+                    "resource": "SAARC vs ASEAN",
+                    "link": "https://docs.google.com/document/d/10GPKHRIrlz9uA-CCOoJNf1jse5lRmH79YmkWdQTFvco/edit?usp=sharing",
+                    "evidence": "",
+                    "assessment": ""
+                }
+            ],
+            "vocabulary": [
+                "SAARC"
+            ]
+        },
+        {
+            "id": 45,
+            "name": "Natural Disaster: Bangladesh is the perfect storm",
+            "unit": "", 
+            "outcomes": [
+                {
+                    "title": "Bangladesh - a disaster waiting to happen?",
+                    "plan": "students copy worksheet and complete",
+                    "note": "",
+                    "expectation": "E3.1 explain how various factors affect weather and climate patterns in the region, E3.3 identify natural hazards to which the region is vulnerable",
+                    "resource": "bangladesh basics",
+                    "link": "https://docs.google.com/document/d/1lakRD9rxQ8Uz4AaDqwodSvXG3BqI26M9yizLM9NF1A8/edit?usp=sharing",
+                    "evidence": "",
+                    "assessment": ""
+                }
+            ],
+            "vocabulary": [
+                "Flooding", "Cylones", "Sea level rise", "Salt water intrusion", "Soil erosion", "Monsoon", "Deforestation"
+            ]
+        },
+        {
+            "id": 46,
+            "name": "Climate change: Bangladesh is the world’s most vulnerable nation",
+            "unit": "", 
+            "outcomes": [
+                {
+                    "title": "Bangladesh and Climate Change",
+                    "plan": "students watch documentary",
+                    "note": "",
+                    "expectation": "E3.2 explain how climate change currently affects the region and how it is likely to do so in the future, A2.3 apply the concepts of geographic thinking when analysing current events involving geographic issues",
+                    "resource": "Climate change documentary",
+                    "link": "https://www.youtube.com/watch?v=99jkZ-6vvvE",
+                    "evidence": "",
+                    "assessment": ""
+                },
+                {
+                    "title": "Bangladesh and Climate Change xword",
+                    "plan": "students complete xword after watching video",
+                    "note": "",
+                    "expectation": "",
+                    "resource": "xword",
+                    "link": "https://docs.google.com/document/d/19LSkH3CRgo-3r2mewXDm3V7k4KFDZhDto7oiw3kQKak/edit?usp=sharing",
+                    "evidence": "",
+                    "assessment": ""
+                }
+            ],
+            "vocabulary": [
+                "climate change", "climate refugees", "Ganges-Brahmatra delta"
+            ]
+        },
+        {
+            "id": 47,
+            "name": "ArcGIS - Bangladesh and its rivers",
+            "unit": "", 
+            "outcomes": [
+                {
+                    "title": "ArcGIS lab - Bangladesh",
+                    "plan": "students make a copy",
+                    "note": "",
+                    "expectation": "",
+                    "resource": "lab",
+                    "link": "https://docs.google.com/document/d/1ybKpZiSH1cZeD2Dz6GIPtj3H5sxSoluDBKc_7GwdJvA/edit?usp=sharing",
+                    "evidence": "",
+                    "assessment": ""
+                }
+            ],
+            "vocabulary": [
+                "Watershed", "Geomorphology", "Discharge", "Headwaters"
+            ]
+        },
+        {
+            "id": -99,
+            "name": "Field trip to Little India",
+            "unit": "", 
+            "outcomes": [
+                {
+                    "title": "",
+                    "plan": "",
+                    "note": "",
+                    "expectation": "",
+                    "resource": "",
+                    "link": "",
+                    "evidence": "",
+                    "assessment": ""
+                }
+            ],
+            "vocabulary": [
+                "", ""
+            ]
+        },
+        {
+            "id": -99,
+            "name": "Field trip to Little India II",
+            "unit": "", 
+            "outcomes": [
+                {
+                    "title": "",
+                    "plan": "",
+                    "note": "",
+                    "expectation": "",
+                    "resource": "",
+                    "link": "",
+                    "evidence": "",
+                    "assessment": ""
+                }
+            ],
+            "vocabulary": [
+                "", ""
+            ]
+        },
+        {
+            "id": 50,
+            "name": "GIS project: Little India analysis",
+            "unit": "", 
+            "outcomes": [
+                {
+                    "title": "How will I be assessed on this project?",
+                    "plan": "Students read assessment criteria and ask questions",
+                    "note": "",
+                    "expectation": "A2.1 describe ways in which geographic investigation can help them develop skills, including spatial skills and the essential skills in the Ontario Skills Passport, A2.2 apply in everyday contexts skills and work habits developed through geographic investigation, A2.4 identify some careers in which a geography background might be an asset",
+                    "resource": "assessment criteria",
+                    "link": "https://docs.google.com/document/d/1hvSvw9Rx1bDOr-ZsGCN35hMxCCHn-NkwhiiLXST0BeE/edit?usp=sharing",
+                    "evidence": "",
+                    "assessment": ""
+                },
+                {
+                    "title": "How will I be assessed on this project? (Alternative assignment)",
+                    "plan": "Students read assessment criteria and ask questions",
+                    "note": "",
+                    "expectation": "A2.1 describe ways in which geographic investigation can help them develop skills, including spatial skills and the essential skills in the Ontario Skills Passport, A2.2 apply in everyday contexts skills and work habits developed through geographic investigation, A2.4 identify some careers in which a geography background might be an asset",
+                    "resource": "assessment criteria",
+                    "link": "https://docs.google.com/document/d/1bSro2fZE9DwSBCpe_iuDLDv_LFrQaF0uhSx2qq2O6Nk/edit?usp=sharing",
+                    "evidence": "",
+                    "assessment": ""
+                },
+                {
+                    "title": "Example project",
+                    "plan": "students review example project and grade using rubric",
+                    "note": "",
+                    "expectation": "",
+                    "resource": "example",
+                    "link": "https://docs.google.com/document/d/1E-aduYC6V66KK5d_My7vw3QHob54mn94_9bvPXCUYFc/edit?usp=sharing",
+                    "evidence": "",
+                    "assessment": ""
+                }
+            ],
+            "vocabulary": [
+                "", ""
+            ]
+        },
+        {
+            "id": -99,
+            "name": "GIS project: work period",
+            "unit": "", 
+            "outcomes": [
+                {
+                    "title": "",
+                    "plan": "",
+                    "note": "",
+                    "expectation": "",
+                    "resource": "",
+                    "link": "",
+                    "evidence": "",
+                    "assessment": ""
+                }
+            ],
+            "vocabulary": [
+                "", ""
+            ]
+        },
+        {
+            "id": -99,
+            "name": "GIS project: work period 2",
+            "unit": "", 
+            "outcomes": [
+                {
+                    "title": "",
+                    "plan": "",
+                    "note": "",
+                    "expectation": "",
+                    "resource": "",
+                    "link": "",
+                    "evidence": "",
+                    "assessment": ""
+                }
+            ],
+            "vocabulary": [
+                "", ""
+            ]
+        },
+        {
+            "id": -99,
+            "name": "GIS project: work period 3",
+            "unit": "", 
+            "outcomes": [
+                {
+                    "title": "",
+                    "plan": "",
+                    "note": "",
+                    "expectation": "",
+                    "resource": "",
+                    "link": "",
+                    "evidence": "",
+                    "assessment": ""
+                }
+            ],
+            "vocabulary": [
+                "", ""
+            ]
+        },
+        {
+            "id": 99,
+            "name": "Preparation",
+            "unit": "Final exam", 
+            "outcomes": [
+                {
+                    "title": "Exam topics and format",
+                    "plan": "students make a copy of document and start creating study notes",
+                    "note": "",
+                    "expectation": "",
+                    "resource": "topics and format",
+                    "link": "https://docs.google.com/document/d/1qScCxOEnReF15L8VclCOcxMSsxhQQPuj95QXpsDVg30/edit?usp=sharing",
+                    "evidence": "",
+                    "assessment": ""
+                }
+            ],
+            "vocabulary": [
+                ""
+            ]
+        },
+        {
+            "id": -99,
+            "name": "Prep 2",
+            "unit": "", 
+            "outcomes": [
+                {
+                    "title": "",
+                    "plan": "",
+                    "note": "",
+                    "expectation": "",
+                    "resource": "",
+                    "link": "",
+                    "evidence": "",
+                    "assessment": ""
+                }
+            ],
+            "vocabulary": [
+                ""
+            ]
+        },
+        {
+            "id": -99,
+            "name": "Prep 3",
+            "unit": "", 
+            "outcomes": [
+                {
+                    "title": "",
+                    "plan": "",
+                    "note": "",
+                    "expectation": "",
+                    "resource": "",
+                    "link": "",
+                    "evidence": "",
+                    "assessment": ""
+                }
+            ],
+            "vocabulary": [
+                ""
+            ]
+        }
+    ]
+}
