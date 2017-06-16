@@ -17,7 +17,7 @@ function loadJSON(myfile, callback) {
     var n = url.indexOf("?data=");
     if (n != -1) { data = url.substr(n+6,5) }
 
- 	loadJSON("https://mdjhoel.github.io/lessonmaker/" + data + ".json", function(response) {
+ 	loadJSON("https://2018courses.github.io/lessonmaker/" + data + ".json", function(response) {
   	
   		// Parse JSON string into object
     	var actual_JSON = JSON.parse(response);
